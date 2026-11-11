@@ -12,7 +12,7 @@ This register distinguishes completed source studies from prior-conversation syn
 | FILM-002 | *The Wailing* | Film | Mentioned in prior comparative research | Full source-specific study not yet archived. | Pending |
 | FILM-003 | *The Shining* | Film | Mentioned in prior comparative research | Full source-specific study not yet archived. | Pending |
 | FILM-004 | *The Exorcist* | Film | Mentioned in prior comparative research | Full source-specific study not yet archived. | Pending |
-| GRAMMAR-001 | Horror grammar / suspense principles | Craft framework | Prior synthesis recorded | Working heuristics, not universal laws. Add scene-based evidence as studies are completed. | `04_HORROR_GRAMMAR/CORE_PRINCIPLES.md` |
+| GRAMMAR-001 | Horror grammar / suspense principles | Craft framework | Prior synthesis recorded | Working heuristics, not universal laws. Add scene-based evidence as studies are completed. | `04_HORROR_GRAMMAR/CORE_PRINCIPLES.md` |\n| CAT-001 | Indra Soundar Rajan author catalogue | Catalogue screen | Preliminary relevance screen completed | Site claims 196 entries and seven pages. Selected book records assessed, but page 2 / page 3 Most-read route could not be fetched. Not a full review of all 196 works. | `01_SOURCE_LIBRARY/ISR_AUTHOR_CATALOGUE_SCREENING_2026-11-12.md` |
 
 ## Previously researched Indra Soundar Rajan reading queue
 
