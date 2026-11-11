@@ -1,16 +1,16 @@
 # Book Acquisition Shortlist — Indra Soundar Rajan
 
-**Status:** Updated after the user supplied page-3 catalogue screenshots and *Aranmanai Ragasiyam 1*.
+**Status:** Updated after completion of *Aranmanai Ragasiyam 1* (ISR-005) and *Kallukkul Pugundha Uyir* (ISR-006).
 
-## Completed acquisition
+## Completed acquisitions
 
-- **Aranmanai Ragasiyam 1** — received and studied from the supplied 74-page scan. The supplied copy is catalogued in the archive as ISR-005. Its actual story is centred on Parani, Banarasidas, the Naga Ratnam, Naga Karadu, the coral Devi / Sri Chakra secret, and an ambiguous coma ending. This does **not** match the simplified haunted-Western-Ghats-mansion description previously found in retailer copy. The scan's own imprint differs from the external listing and should be treated as a separate / unresolved edition manifestation until matched.
+- **Aranmanai Ragasiyam 1** — supplied 74-page scan studied. Its actual story centres on Parani, Banarasidas, the Naga Ratnam, Naga Karadu, the coral Devi / Sri Chakra secret, and an ambiguous coma ending. This does **not** match the simplified haunted-Western-Ghats-mansion description previously found in retailer copy. The scan's imprint differs from the external listing; edition match remains unresolved.
+- **Kallukkul Pugundha Uyir** — supplied 74-page PDF studied across all 11 chapters. The story braids Naganatha Pillai's paralysis, Nandana's threat and police protection, Vidaithangi's agrarian Nandi tradition, a Pallava-era sculptor / tapas-yogi account, and the rare animation of a Nandi statue. Independent references support the broad context of Nandi facing a Shiva shrine and Shilpa-related architecture / sculpture texts. The novel's 32-lakshana Nandi, damaged mark and 108-year animation cycle remain fictional / unverified claims.
 
 ## Next requested source
 
-1. **Kallukkul Pugundha Uyir** — spiritual mystery, temple sculpture traditions, Shilpa Shastra material, and the author's own preface on mystery construction and emotional impact. This is now the next recommended upload.
-2. **Abaya Vanam** — possible Siddhar / Jeeva Samadhi belief-system research. Treat the fictional presentation as a lead, not cultural proof.
-3. **Chidambara Ragasiyam** — story collection. Send the contents page first so we can select relevant stories rather than studying 541 pages indiscriminately.
+1. **Abaya Vanam** — possible Siddhar / Jeeva Samadhi belief-system research. Treat the fictional presentation as a lead, not cultural proof.
+2. **Chidambara Ragasiyam** — story collection. Send the contents page first so we can select relevant stories rather than studying 541 pages indiscriminately.
 
 ## Page-3 screenshot titles to investigate, not yet recommend
 
