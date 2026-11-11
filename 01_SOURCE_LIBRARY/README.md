@@ -10,7 +10,7 @@ This folder records source metadata and access notes. Original copyrighted books
 | ISR-002 | *Vittu Vidu Karuppa!* | Indra Soundar Rajan | User-uploaded 298-page PDF. Title page displays the English author form “Indira Soundarajan”; PDF metadata confirms title and author fields. | Research notes only. Original PDF excluded. |
 | ISR-003 | *Thangakkaadu* | Indra Soundar Rajan | User-uploaded scanned collected volume. OCR was unreliable. | Research notes only. Original PDF excluded. |
 | ISR-004 | *Adhu Mattum Ragasiyam* | Indra Soundar Rajan | User-uploaded 137-page image-only scan of a book whose printed length is given as 272 pages. Front matter states first edition May 2002 and second edition November 2003; publisher shown as Thirumagal Nilayam. | Research notes only. Original PDF excluded. Scan appears to omit printed pp. 2–5; OCR was used only as a navigation aid and key pages checked visually. |
-| FILM-001 | *Rosemary's Baby* | Roman Polanski, director | Prior scene observations in conversation. | Limited sensory-grammar notes only. |
+| FILM-001 | *Rosemary's Baby* | Roman Polanski, director | Prior scene observations in conversation. | Limited sensory-grammar notes only. |\n| CAT-001 | Indra Soundar Rajan author catalogue | TamilBooksPDF listing | Site states 196 entries and seven pages. Selected individual listings and external retailer / publisher records were checked. Page 3 Most-read was not accessible in this pass. | Discovery / acquisition shortlist only. No copyrighted book files included. |
 
 ## Evidence-handling protocol
 
