@@ -1,58 +1,69 @@
-# KARUPPI: Project Status
+# KARUPPI — Project Status and Canon Boundary
 
-**Archive status:** Active research library  
-**Film format:** Animated Tamil folklore-horror mystery  
-**Current-day timeline:** 1990  
-**Research posture:** Investigate first. Do not prematurely explain.
+**Archive baseline:** 2026-11-11  
+**Status:** Research and study phase. Story redevelopment is intentionally paused.
 
-## Locked development boundary
+## Active creative foundation
 
-- The current-day 1990 village mystery remains the active story foundation.
-- The earlier historical Story B mythology has been removed from active development.
-- No replacement Story B, historical mythology, or origin explanation is approved.
-- Preserve established mysteries without inventing causal connections between them.
-- Do not turn research observations or assistant proposals into story canon without explicit approval.
+The active project is an animated Tamil folklore-horror mystery film set in an isolated Tamil village with mountain / forest geography. The present-day setup is the material to preserve while research continues. Mysteries are not to be explained, linked, or reinterpreted without evidence from the latest Master Story Bible and an explicit creative decision.
 
-## Current-day elements to preserve
+### Current-day elements recorded so far
 
-The following are carried forward from the working project context. Their exact relationships and final screenplay status remain subject to the master story bible.
+This is a preservation list, not a declaration that every causal relationship is locked:
 
-- An isolated Tamil village with mountain and forest geography.
-- Darkness begins unnaturally early, around 3 PM.
-- Unusual village restrictions and behaviours.
-- A nightly torch procession into the forest.
-- An abandoned shrine with an eternal fire and faceless statues.
+- Timeline: 1990.
+- Darkness begins around 3 PM in an unnatural manner.
+- The village has strange restrictions and behaviours.
+- A nightly torch procession enters the forest.
+- An abandoned shrine has an eternal fire and faceless statues.
 - Arjun disappears.
-- Rajan investigates, with Thangam important to the investigation.
-- Selvi's drawings contain clues.
-- A mysterious monthly gold transaction / gold sack.
-- Secrets associated with the Velanthirayar family.
-- Kandasamy's death.
-- An old family painting, basement, and burned anklet.
+- Rajan investigates, with Thangam as an important character / partner.
+- Selvi's drawings reveal clues.
+- A mysterious monthly gold transaction / gold sack exists.
+- The Velanthirayar family has secrets.
+- Kandasamy dies.
+- An old family painting, a basement, and a burned anklet have been noted. Their exact functions and relationships require checking against the latest Master Story Bible.
+- A post office has been discussed as a community communication hub. Verify its exact status against the source bible.
 
-**Important:** This list is a preservation checklist, not a solved mystery map. Do not assume that all listed elements share one cause.
+Do not infer that these elements share one explanation unless the source material establishes that link.
 
-## Active research sources
+## Story B: removed from active development
 
-| Source | Status | Important limitation |
-|---|---|---|
-| *Vittu Vidu Karuppa!* — Indra Soundar Rajan | Text-layer reading and high-level analysis completed | Page-level evidence map still required |
-| *Ragasiyamaaga Oru Ragasiyam* — Indra Soundar Rajan | Deep study synthesis completed from scanned pages and selected OCR/page inspection | Not a verified chapter-by-chapter critical edition |
-| *Thangakkaadu* — Indra Soundar Rajan | Preliminary source identification only | Scan/OCR was unreliable; detailed study intentionally stopped |
-| *Rosemary's Baby* | Selected sensory-grammar observations | Not a full scene-by-scene film study |
+The prior historical mythology is not active canon. Park the following material and do not reintroduce it as an explanation:
 
-## Working method
+- Karuppi and Maari as historical mythological characters.
+- Their historical backstory and betrayal narrative.
+- The Ravi–Selvaraj triangle.
+- The counter-spell.
+- The magical ring lineage and associated historical mythology.
 
-1. Record the source before interpreting it.
-2. Separate SOURCE, ANALYSIS, and APPLICATION.
-3. Identify evidence limits and confidence.
-4. Extract a technique, not a plot to imitate.
-5. Test whether the technique improves suspense, character, clarity, or emotional consequence.
-6. Reject derivative, unsupported, confusing, or dramatically inert material.
+No replacement mythology has been approved. Earlier assistant-proposed alternatives are not canon. Do not invent a replacement Story B while the project is in research mode.
 
-## Not currently authorised
+## Current phase objective
 
-- Rebuilding historical mythology.
-- Reintroducing Karuppi/Maari as historical mythological characters.
-- Reintroducing the old betrayal / counter-spell / magical-ring lineage material.
-- Writing a screenplay or inventing a replacement Story B before requested.
+Build a rigorous research library by studying one book or film at a time. The archive currently includes studies / notes for *Vittu Vidu Karuppa!*, *Ragasiyamaaga Oru Ragasiyam*, *Thangakkaadu* (blocked), and selected sensory observations from *Rosemary's Baby*.
+
+Current craft questions include village life and collective behaviour, rules and consequences, mystery information flow, geography as a suspense mechanism, sensory motifs, conflicting belief systems, clue progression, and the coexistence of human deception with uncanny evidence.
+
+Do not start a screenplay, rebuild the mythology, or produce new plot explanations unless explicitly requested.
+
+## Decision rules
+
+- Challenge ideas that are clichéd, decorative, derivative, over-explanatory, or unsupported.
+- Keep source observations separate from interpretation and story suggestions.
+- Preserve uncertainty. Repetition does not turn a hypothesis into a fact.
+- Consult the latest Master Story Bible before changing the status of a current-day element.
+- Complete one source study before moving to the next unless the project direction changes.
+
+## Canon status vocabulary
+
+- **LOCKED** — explicitly approved by the user or clearly fixed in the latest master bible.
+- **ACTIVE WORKING ELEMENT** — currently used in the setup, but details may need source verification.
+- **OPEN MYSTERY** — intentionally unresolved.
+- **PARKED / REMOVED** — not active development material.
+- **PROPOSAL** — an idea only; not canon.
+- **NEEDS SOURCE CHECK** — referenced in prior discussion but must be checked against the latest source document.
+
+## Immediate next step
+
+Continue with the next selected book or film study only after the user chooses it. Grow the archive through evidence-labelled studies, not shallow summaries.
