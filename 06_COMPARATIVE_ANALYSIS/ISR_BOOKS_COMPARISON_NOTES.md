@@ -1,6 +1,6 @@
 # Indra Soundar Rajan Studies — Preliminary Comparative Matrix
 
-**Status:** Comparative craft map based on five preserved book-study entries (with unequal depth and coverage). This is not a ranking of the novels or a substitute for page-level re-audits.
+**Status:** Comparative craft map based on six preserved book-study entries / source syntheses (with unequal depth and coverage). This is not a ranking of the novels or a substitute for page-level re-audits.
 
 ## Sources represented
 
@@ -9,6 +9,7 @@
 - ISR-003: *Thangakkaadu* — scan / OCR blocked; no plot comparison possible.
 - ISR-004: *Adhu Mattum Ragasiyam* — 137-page scanned PDF reviewed using Tamil OCR as navigation aid and page-image checks; missing printed pages 2–5 and some OCR gaps.
 - ISR-005: *Aranmanai Ragasiyam 1* — 74-page scan / approximately 144 printed pages; the full supplied story arc was reviewed. Publication year not verified and the copy's Munnovel / Sulekhar Printers colophon differs from the external catalogue record.
+- ISR-006: *Kallukkul Pugundha Uyir* — 74-page PDF with a partially searchable but corrupted Tamil text layer; all 11 chapters and ending reviewed. Publication details not established by the supplied scan.
 - ISR-006: *Kallukkul Pugundha Uyir* — 74-page PDF with a partially searchable but corrupted Tamil text layer; all 11 chapters and the ending were reviewed. Publication details are not established by the supplied scan.
 
 ## 1. What the current studies support
