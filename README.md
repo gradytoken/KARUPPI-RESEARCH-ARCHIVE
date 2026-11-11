@@ -1,49 +1,50 @@
-# KARUPPI Research Archive
+# KARUPPI — Research Archive
 
-A versioned research library for the development of **KARUPPI**, an animated Tamil folklore-horror mystery film.
+A version-controlled, evidence-led research library for **KARUPPI: The Betrayed Guardian**, an animated Tamil folklore-horror mystery film.
 
 ## Project boundary
 
-- Preserve the current-day **1990** village mystery as currently established.
-- The previous historical Story B mythology has been removed from active development.
+- Preserve the present-day **1990** village mystery as currently established.
+- The former historical **Story B** mythology has been removed from active development.
 - No replacement mythology is approved.
-- Research one book, film, or cultural source at a time.
-- Do not turn an interpretation or proposal into story canon without explicit approval.
+- Do not invent causal links between separate current-day mysteries.
+- Nothing becomes story canon merely because it appears in a research note.
 
-## Start here
+## Research represented
 
-- [Project Status](00_MASTER_INDEX/PROJECT_STATUS.md)
-- [Research Register](00_MASTER_INDEX/RESEARCH_REGISTER.md)
-- [Current-Day Mystery Map](07_KARUPPI_APPLICATION/CURRENT_DAY_MYSTERY_MAP.md)
-- [Horror Grammar Principles](04_HORROR_GRAMMAR/CORE_PRINCIPLES.md)
+- **ISR-001 — *Ragasiyamaaga Oru Ragasiyam***: deep study synthesis from prior page-image / OCR-assisted review; page-level audit pending.
+- **ISR-002 — *Vittu Vidu Karuppa!***: previously read / extracted and discussed; expanded high-level study included. This is not claimed to be a fresh chapter-by-chapter audit.
+- **ISR-003 — *Thangakkaadu***: scan / OCR blocked; no plot study claimed.
+- **FILM-001 — *Rosemary's Baby***: selected sensory-grammar observations, not a complete film study.
 
-## Book studies
+## Archive map
 
-- [ISR-001: Ragasiyamaaga Oru Ragasiyam](02_BOOK_STUDIES/ISR_001_Ragasiyamaaga_Oru_Ragasiyam.md)
-- [ISR-002: Vittu Vidu Karuppa!](02_BOOK_STUDIES/ISR_002_Vittu_Vidu_Karuppa.md)
-- [ISR-003: Thangakkaadu](02_BOOK_STUDIES/ISR_003_Thangakkaadu.md), study deferred because the uploaded scan / OCR was unreliable
-- [Book Study Template](02_BOOK_STUDIES/_BOOK_STUDY_TEMPLATE.md)
-
-## Other research
-
-- [Rosemary's Baby: Selected Sensory Grammar](03_FILM_STUDIES/ROSEMARYS_BABY_SENSORY_GRAMMAR.md)
-- [Folklore and Culture Research Protocol](05_FOLKLORE_AND_CULTURE/RESEARCH_PROTOCOL.md)
-- [Comparative Analysis Template](06_COMPARATIVE_ANALYSIS/COMPARISON_TEMPLATE.md)
-- [Story Development Admission Rules](08_STORY_DEVELOPMENT/README.md)
-- [Backup Policy](09_ARCHIVE_BACKUPS/BACKUP_POLICY.md)
+| Folder | Purpose |
+|---|---|
+| `00_MASTER_INDEX/` | Project status, register, navigation |
+| `01_SOURCE_LIBRARY/` | Source inventory and handling rules |
+| `02_BOOK_STUDIES/` | Book-by-book studies and templates |
+| `03_FILM_STUDIES/` | Film studies and templates |
+| `04_HORROR_GRAMMAR/` | Transferable craft principles and audit tools |
+| `05_FOLKLORE_AND_CULTURE/` | Folklore and cultural research protocol |
+| `06_COMPARATIVE_ANALYSIS/` | Cross-source comparison |
+| `07_KARUPPI_APPLICATION/` | Conditional application to the current-day story |
+| `08_STORY_DEVELOPMENT/` | Explicitly approved decisions only |
+| `09_ARCHIVE_BACKUPS/` | Backup and versioning policy |
 
 ## Evidence labels
 
-- **SOURCE**: what the book, film, or source actually presents.
-- **ANALYSIS**: our interpretation of how or why it works.
-- **APPLICATION**: a possible technique for KARUPPI. Not canon unless approved.
+- **SOURCE** — what the source demonstrably contains.
+- **ANALYSIS** — our interpretation of why or how it works.
+- **APPLICATION** — a possible technique for KARUPPI; not canon unless explicitly approved.
+- **OPEN / NEEDS VERIFICATION** — incomplete, uncertain, or requiring a primary-source check.
 
-## Confidence and source integrity
+## Working principles
 
-Each study should disclose whether it is based on a full text, selected pages, scan, OCR, excerpts, or prior synthesis. Never invent page numbers, timestamps, quotations, or bibliographic details. Mark unknown information as unverified.
+1. Challenge, don't flatter. Keep only techniques that improve the story.
+2. No invented page numbers, timestamps, quotations, or bibliographic details.
+3. Do not upload full copyrighted books or film materials. Store original source files outside this repository.
+4. Study one work at a time and select the next source based on a specific craft question.
+5. When a scan is poor, stop rather than manufacturing certainty from OCR noise.
 
-Original copyrighted books and films remain outside this public repository. This archive stores original research notes, source metadata, and transformative analysis.
-
-## Working rule
-
-Research should challenge the story, not merely decorate it. Reject techniques that are derivative, unsupported, confusing, or dramatically inert.
+Start with `00_MASTER_INDEX/PROJECT_STATUS.md` and `00_MASTER_INDEX/RESEARCH_REGISTER.md`.
