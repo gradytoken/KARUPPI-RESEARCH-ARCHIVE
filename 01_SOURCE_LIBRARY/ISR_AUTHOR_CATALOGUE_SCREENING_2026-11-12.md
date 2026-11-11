@@ -7,22 +7,55 @@
 
 ## 1. Scope and access limitation
 
-The author landing page states **196 books**, approximately **26.6k pages**, and displays 24 titles per page. Its pagination indicates seven pages. The page-3 / Most-read route and page 2 failed to load through the available page retrieval, including when followed from the catalogue's own pagination.
+The author landing page states **196 books**, approximately **26.6k pages**, and displays 24 titles per page. Its pagination indicates seven pages. The page-3 / Most-read route and page 2 failed to load through the available page retrieval, including when followed from the catalogue's own pagination. The user subsequently supplied two screenshots of the page-3 grid with the Most-read filter selected. The screenshot transcription below is visual, not a verified export of all page metadata.
 
 What was verified:
 - The collection size and pagination from the author landing page.
 - A visible page-1 sample.
+- Two user-provided screenshots of the page-3 Most-read grid.
 - Selected individual book records that explicitly identify themselves as part of “All 196 books”.
 - Selected publisher / bookseller descriptions for stronger candidates.
 
 What was not verified:
 - The complete 196-title list.
-- The contents of page 3 sorted by Most read.
+- A machine-readable export of page 3 sorted by Most read. The screenshots show the grid, but several cover titles / captions are too small to read confidently.
 - A complete plot synopsis for every candidate.
 
 This is an acquisition shortlist, not a claim that every one of the 196 books has been screened or read.
 
 The catalogue's broad description says the author's writing often combines Tamil temple settings, rituals, folklore, modern protagonists and paranormal uncertainty. Treat that as promotional catalogue copy, not a critical conclusion about every title.
+
+
+## 1A. Page-3 screenshot transcription (user supplied)
+
+The two screenshots show a continuation of the page-3 grid with the Most-read filter selected. The following cover titles are legible enough to transcribe with reasonable confidence:
+
+- *Enge En Kannan* (எங்கே என் கண்ணன்)
+- *Chennaiyil Kolai* (சென்னையில் கொலை)
+- *Paathala Lingam* (பாதாள லிங்கம்)
+- *Mandhira Valai* (மந்திர வலை)
+- *Ore Oru Vaarthai* (ஒரே ஒரு வார்த்தை)
+- *Asura Jathagam* (அசுர ஜாதகம்)
+- *Pettikkul Oru Pudhaiyal* (பெட்டிக்குள் ஒரு புதையல்)
+- *Mahadeva Ragasiyam* (மகாதேவ ரகசியம்)
+- *Uyire... Uyire...* (உயிரே... உயிரே...)
+- *Maanikka Naagam 2: Moonraavathu Kann* (மாணிக்க நாகம் 2: மூன்றாவது கண்)
+- *Thulli Varuthu Vel* (துள்ளி வருது வேல்)
+- *Maaya Vizhigal* (மாய விழிகள்)
+- *Oru Minnal Oru Natchathiram* (ஒரு மின்னல் ஒரு நட்சத்திரம்)
+- *Naaga Padai* (நாக படை)
+- *Aaraam Sakthi* (ஆறாம் சக்தி)
+- *Muthal Sakthi* (முதல் சக்தி)
+
+One lower-left cover may read *Maatru Tharunam* (மாற்றுத் தருணம்), but the lettering is not clear enough to treat as verified. Other covers in the screenshot have unreadable titles or captions. They are not transcribed here.
+
+These are cover-title sightings, not plot summaries. Do not infer that *Naaga Padai* or *Maanikka Naagam* contains a particular serpent mythology, or that *Paathala Lingam* concerns an underground temple, until a synopsis or the book itself confirms it.
+
+## 1B. Reconciliation note: *Aranmanai Ragasiyam 1*
+
+The supplied scan has now been studied as ISR-005. Its interior running header reads *Aranmanai Ragasiyam 1*. The story opening follows Parani in Madurai and his encounter with Banarasidas; the mystery develops around the Naga Ratnam, Naga Karadu, the coral Devi / Sri Chakra, and a claimed spiritual “world palace”, before ending with a coma and an apparently empty hill.
+
+This differs materially from the external retailer synopsis previously used in the shortlist, which described a haunted mansion in a Western Ghats village. The supplied copy's final colophon points to Munnovel / Sulekhar Printers, whereas the catalogue record attributes a listing to Thirumagal Nilayam. Treat the retailer synopsis and supplied scan as potentially different editions / serialised manifestations until a matching edition is established. The book text outranks a retailer summary for the study of this supplied copy.
 
 ## 2. KARUPPI relevance criteria
 
@@ -40,7 +73,7 @@ A title or genre tag alone is not enough. Do not infer plot from words such as *
 
 | Rank | Title | Potential value for KARUPPI | Evidence and caution |
 |---|---|---|---|
-| 1 | **Aranmanai Ragasiyam** | Strongest direct setting match. A retailer synopsis places it in Anaimudi, a fictional Western Ghats village. Nearby villagers consider a run-down mansion cursed / haunted. Arvind and others investigate its history and encounter apparitions, strange noises and moving objects. Useful for village fear, old-property geography and investigation. | TamilBooksPDF's individual record says it belongs to “All 196 books”, names Thirumagal Nilayam and lists a 74-page PDF. Giri's synopsis gives the Western Ghats setting and mansion events. Publication-date descriptions conflict: TamilBooksPDF says 2012, Giri says originally published 2003. Verify the edition from the copy. Synopsis is retailer copy, not the novel itself. |
+| 1 | **Aranmanai Ragasiyam 1** | Received and studied as ISR-005. The supplied copy's actual story follows Parani, Banarasidas, the Naga Ratnam, Naga Karadu and the coral Devi / Sri Chakra secret, with a coma / empty-hill ending. | Do not rely on the haunted-Western-Ghats-mansion retailer synopsis for this supplied copy. The book's interior header says *Aranmanai Ragasiyam 1*; its colophon identifies Munnovel / Sulekhar Printers. The TamilBooksPDF record attributes a separate listing to Thirumagal Nilayam. Edition match unresolved. |
 | 2 | **Kallukkul Pugundha Uyir** | Especially useful for temple-art and spiritual-mystery research. The publisher-facing preface calls it a different spiritual-mystery field and describes mystery as searching for something hidden or concealed, often a crime or criminal. It asks what emotional impact a mystery should leave after reading. The opening preview introduces Shilpa Shastra, Mayan, Vishwakarma, a mridangam player and a village Shiva temple at Vidaithangi. | The title appears in the TamilBooksPDF collection. Everand / OverDrive publisher records provide the preface and opening preview. TamilBooksPDF lists a 74-page PDF, while Everand says 112 pages, so formats / editions differ. |
 | 3 | **Abaya Vanam** | Potential source for studying how Siddhar feats, clairvoyance / distant-seeing and Jeeva Samadhi are rendered inside a suspense narrative. Could be relevant to regional spiritual belief research. | Appears on the visible catalogue page with 320 pages. CommonFolks describes the subject as Siddhar feats, distant-seeing and Jeeva Samadhi. Fictional presentation is not proof of real Siddhar history. Any cultural fact used in KARUPPI needs independent verification. |
 | 4 | **Chidambara Ragasiyam** | The catalogue record describes it as a 541-page story collection. It could provide several shorter mystery structures and a broader range of story approaches. | Strong collection-level evidence, but not enough information on individual stories. Ask for the contents page / story list first and choose only relevant stories before studying the whole volume. Confirm edition because available records vary in page count and format. |
@@ -88,12 +121,12 @@ These surfaced in external author / ebook catalogues, but I have not matched the
 
 Please provide one book at a time, in this order:
 
-1. **Aranmanai Ragasiyam**
-2. **Kallukkul Pugundha Uyir**
-3. **Abaya Vanam**
+1. **Aranmanai Ragasiyam 1** — received and studied as ISR-005.
+2. **Kallukkul Pugundha Uyir** — now the next recommended source.
+3. **Abaya Vanam**.
 4. **Chidambara Ragasiyam**, starting with its contents page / story list if available.
 
-The immediate best choice is *Aranmanai Ragasiyam*. It is the strongest synopsis-level match to the geography and village-fear mechanics of current-day KARUPPI.
+The supplied *Aranmanai Ragasiyam 1* scan differs from the retailer synopsis that originally made it a priority. The actual copy has been studied and the edition mismatch is recorded above.
 
 ## 9. Project boundary
 
