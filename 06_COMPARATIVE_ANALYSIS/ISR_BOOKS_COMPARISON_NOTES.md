@@ -1,6 +1,6 @@
 # Indra Soundar Rajan Studies — Preliminary Comparative Matrix
 
-**Status:** Comparative craft map based on the four preserved book-study entries. This is not a ranking of the novels or a substitute for page-level re-audits.
+**Status:** Comparative craft map based on five preserved book-study entries (with unequal depth and coverage). This is not a ranking of the novels or a substitute for page-level re-audits.
 
 ## Sources represented
 
@@ -9,6 +9,7 @@
 - ISR-003: *Thangakkaadu* — scan / OCR blocked; no plot comparison possible.
 - ISR-004: *Adhu Mattum Ragasiyam* — 137-page scanned PDF reviewed using Tamil OCR as navigation aid and page-image checks; missing printed pages 2–5 and some OCR gaps.
 - ISR-005: *Aranmanai Ragasiyam 1* — 74-page scan / approximately 144 printed pages; the full supplied story arc was reviewed. Publication year not verified and the copy's Munnovel / Sulekhar Printers colophon differs from the external catalogue record.
+- ISR-006: *Kallukkul Pugundha Uyir* — 74-page PDF with a partially searchable but corrupted Tamil text layer; all 11 chapters and the ending were reviewed. Publication details are not established by the supplied scan.
 
 ## 1. What the current studies support
 
@@ -46,7 +47,7 @@ A folk verse, local belief, or elder's story can preserve real memory while dist
 ## 3. Comparative cautions
 
 - The studies have unequal coverage. *Aranmanai Ragasiyam 1* and *Adhu Mattum Ragasiyam* have studies of the supplied scans; *Vittu Vidu Karuppa!* and *Ragasiyamaaga Oru Ragasiyam* have prior syntheses with page-level audits pending; *Thangakkaadu* is not studied.
-- Do not generalise about the author's entire body of work from three novels.
+- Do not generalise about the author's entire body of work from these studies, which have unequal coverage and include a blocked scan.
 - Do not infer that all supernatural events in any one novel are fake or that all are genuine.
 - Do not confuse similar motifs (temple, village, hidden object) with equivalent plot structures.
 
@@ -67,3 +68,14 @@ No plot device, mythology, character, or signature image from these novels is ap
 *Aranmanai Ragasiyam 1* begins with an ordinary material want (Parani's debt and wish for wealth), then introduces an uncanny visitor, an inherited moral debt, a dangerous location, an identity photograph, and a spiritual explanation. The protagonist's investigative agency becomes weaker as the spiritual lineage exposition expands. Its coma ending restores uncertainty but risks weakening the payoff.
 
 **KARUPPI use:** test the balance between ordinary personal pressure, an uncanny clue, and a physical investigation. Do not import the gem, Irulan, past-life, serpent-sanctuary, coral Devi, Sri Chakra, or the “world palace” mechanism.
+
+
+## 6. Additional comparative observation from ISR-006
+
+*Kallukkul Pugundha Uyir* gives a sacred object a social and economic role. The Vidaithangi Nandi is connected to agricultural produce, the temple, village identity and rules governing how outsiders should behave. A recurring image of an injured bull links Shiva Prakash's road incident to the sacred Nandi thread.
+
+The novel's central mystery is an ensemble convergence: Naganatha Pillai's paralysis, Nandana's danger, Shiva Prakash's land ambitions, the injured bull and the rare Nandi animation gradually meet at Vidaithangi. This creates a satisfying shared centre, but also increases exposition and diffuses protagonist agency.
+
+**Independent cultural context:** Nandi is commonly placed facing the Shiva shrine, and museum references describe associations with agricultural abundance and strength. [Smithsonian: Nandi](https://asia.si.edu/education/educator-resources/encountering-religion-in-asian-art/explore-by-object/object/nandi/). The IGNCA catalogue lists classical texts on architecture and sculpture, including *Mayamatam* and *Silpa Prakasa*. [IGNCA: Texts on Architecture & Sculpture](https://ignca.gov.in/online-digital-resources/books/kalamulasastra-series/texts-on-architecture-sculpture/). These sources support the broad cultural background only, not the book's 32-lakshana or 108-year animated-statue claims.
+
+**KARUPPI use:** ask whether an existing object or location has a real social role in village life, and whether a recurring physical detail can bridge separate strands. Do not import the walking Nandi, 32-mark rule, 108-year cycle, Pallava origin myth, or the novel's miracle mechanism.
