@@ -1,20 +1,20 @@
-# Source Library
+# Source Library — Inventory and Handling Rules
 
-This folder records source metadata and provenance. It should not become a repository for unauthorised copies of copyrighted books or films.
+This folder records source metadata and access notes. Original copyrighted books and films are not uploaded to this public research repository. Keep the user's original copies in their own storage.
 
-## Record for each source
+## Current source inventory
 
-- Exact title as printed / displayed.
-- Author, director, or creator.
-- Edition, publisher, publication year, ISBN or catalogue identifier, if verified.
-- Language and format.
-- How the source was obtained and which version was studied.
-- Whether the source was complete, excerpted, scanned, OCR-processed, or text-extractable.
-- Inspection coverage and known defects.
-- Rights / access notes.
+| Source ID | Title | Creator | Source / evidence | Repository treatment |
+|---|---|---|---|---|
+| ISR-001 | *Ragasiyamaaga Oru Ragasiyam* | Indra Soundar Rajan | User-uploaded 284-page scanned PDF. | Research notes only. Original PDF excluded. |
+| ISR-002 | *Vittu Vidu Karuppa!* | Indra Soundar Rajan | User-uploaded 298-page PDF. Title page displays the English author form “Indira Soundarajan”; PDF metadata confirms title and author fields. | Research notes only. Original PDF excluded. |
+| ISR-003 | *Thangakkaadu* | Indra Soundar Rajan | User-uploaded scanned collected volume. OCR was unreliable. | Research notes only. Original PDF excluded. |
+| FILM-001 | *Rosemary's Baby* | Roman Polanski, director | Prior scene observations in conversation. | Limited sensory-grammar notes only. |
 
-## Evidence discipline
+## Evidence-handling protocol
 
-A filename or an OCR result is not proof of bibliographic metadata. Do not invent publication data, page numbers, quotations, or chapter boundaries. If information is unknown, mark it **not verified**.
+For every source, record the exact title and creator spelling as displayed, edition metadata only when verified, format and scan quality, what was actually read or watched, the inspection method, source observations versus analysis, and page / timestamp references only after direct verification.
 
-Original copyrighted source files should remain in the user's own lawful storage. This public repository should contain original research notes, metadata, brief quotations only where justified, and transformative analysis.
+## Copyright boundary
+
+Do not upload full copyrighted books, scans, subtitle files, screenplay text, or long extracts. Store original research notes, brief quotations only where lawful and necessary, and bibliographic metadata in this repository.
