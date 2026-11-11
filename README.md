@@ -16,7 +16,9 @@ A version-controlled, evidence-led research library for **KARUPPI: The Betrayed 
 - **ISR-002 — *Vittu Vidu Karuppa!***: previously read / extracted and discussed; expanded high-level study included. This is not claimed to be a fresh chapter-by-chapter audit.
 - **ISR-003 — *Thangakkaadu***: scan / OCR blocked; no plot study claimed.
 - **ISR-004 — *Adhu Mattum Ragasiyam***: scanned-source study covering the opening, investigation, historical account, shrine revelation, and final confession. Tamil OCR was used as a navigation aid and critical pages were visually checked. The supplied scan appears to omit printed pages 2–5.
-- **FILM-001 — *Rosemary's Baby***: selected sensory-grammar observations, not a complete film study.\n- **CAT-001 — Indra Soundar Rajan catalogue screen**: preliminary relevance-ranked shortlist from a 196-entry author catalogue. Page 3 Most-read remains unverified.
+- **ISR-005 — *Aranmanai Ragasiyam 1***: full-arc study of the supplied 74-page scan (approximately 144 printed pages). Critical reveals and ending were visually checked. The supplied copy's Munnovel / Sulekhar Printers colophon differs from the external catalogue's publisher data.
+- **FILM-001 — *Rosemary's Baby***: selected sensory-grammar observations, not a complete film study.
+- **CAT-001 — Indra Soundar Rajan catalogue screen**: preliminary relevance-ranked shortlist from a 196-entry author catalogue. Two user-provided screenshots of the page-3 Most-read grid have been visually screened; some cover titles remain uncertain.
 
 ## Archive map
 
