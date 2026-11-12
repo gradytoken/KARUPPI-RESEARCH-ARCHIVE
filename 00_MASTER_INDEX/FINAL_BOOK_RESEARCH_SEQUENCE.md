@@ -33,12 +33,12 @@
 
 **Selected research set: 9 / 9 complete.** The five international books, two psychology books and two final books have individual source studies and conditional KARUPPI transfer notes. No additional books are planned for this research phase unless the user explicitly changes the scope.
 
-## Next phase: comparative synthesis
+## Comparative synthesis completed
 
-1. Compare all nine selected books across their distinct research functions: mystery architecture, community folklore, historical belief and evidence mediation, unusual experience testimony, ritual / social systems, moral psychology and existential meaning.
-2. Keep each source's claims, evidence, interpretation and limitations distinct. Do not flatten fiction, memoir, historical scholarship, psychology and philosophy into one evidence category.
-3. Extract transferable principles only after checking them against the latest KARUPPI Master Story Bible.
-4. Identify remaining Tamil region-specific folklore and rural social-history gaps rather than filling them with foreign analogies.
-5. After the synthesis, proceed to the separate 20-film international research programme using scene-level study.
+**CMP-001:** `06_COMPARATIVE_ANALYSIS/NINE_BOOK_COMPARATIVE_SYNTHESIS.md`
 
-**Canon boundary:** All book transfer notes remain research applications, not story decisions. No story canon or mythology changes have been made.
+The completed synthesis compares all nine books across mystery architecture, folklore, human psychology, community behaviour, moral conflict, existential conflict, evidence and belief, and horror construction. It distinguishes source types, preserves the Haidt / Greene disagreement, defines the seven-layer research model, records uncertainty types, and separates transferable techniques from culturally specific material requiring Tamil regional verification.
+
+**Next phase:** the separate 20-film international research programme, using scene-level study. Tamil-specific cultural research gaps remain open and must be filled with local sources, not foreign analogies.
+
+**Canon boundary:** All book transfer notes and CMP-001 remain research applications, not story decisions. No story canon or mythology changes have been made. Reconcile the available Master Story Bible file with the removed-Story-B boundary before story-specific application.
