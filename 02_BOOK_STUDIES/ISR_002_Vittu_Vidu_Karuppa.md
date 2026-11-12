@@ -224,3 +224,14 @@ The novel source audit remains complete. A separate dossier has been created for
 Creator-context research confirms that director Naga disliked the novel's ending and introduced the Multiple Personality Disorder trope during adaptation. Indra Soundar Rajan wrote the television screenplay and dialogues as well as the novel. Naga also discussed Karuppu temple field research, visual / casting choices and weekly cliffhanger design.
 
 **Important status boundary:** source discovery and creator-context research are complete at this stage; the 82-episode scene-by-scene audit has not yet begun. The YouTube playlist is identified, but the current research interface does not expose reliable playback / full transcripts for all episodes. No scene-level claims have been invented. Episode audit requires accessible episode transcripts, captions, or user-provided timecoded viewing material.
+
+
+## 17. Television narrative architecture: ANDRU / INDRU
+
+The user supplied a first-hand recollection of the television series' structure: each episode is divided into **ANDRU (past)** and **INDRU (present)**. ANDRU covers the village's earlier history, Ooru Paati's story and Rajendran's childhood history. INDRU follows the current-day story. Both strands move forward in parallel across episodes and converge in the final episode.
+
+This is more precise than describing the format as alternating timelines or occasional flashbacks. The television adaptation gives the past and present two sustained narrative engines, allowing each to seed, challenge and recontextualise the other.
+
+Dedicated analysis: [`ISR_002_TV_NARRATIVE_ARCHITECTURE_ANDRU_INDRU.md`](ISR_002_TV_NARRATIVE_ARCHITECTURE_ANDRU_INDRU.md).
+
+The user has explicitly chosen not to rewatch the 82 episodes. Episode-level rewatch / timestamp audit is therefore **deliberately out of scope**, not pending work. TV structural research is closed for this phase. Do not claim independent episode verification.
