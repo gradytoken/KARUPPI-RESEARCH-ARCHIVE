@@ -61,12 +61,13 @@ Pair numbering records the actual study sequence, not a mechanical pairing of ad
 | 05 | *The Innocents* (1961) + *Rosemary's Baby* (1968) | Completed | 03_FILM_STUDIES/PAIR_05_THE_INNOCENTS_ROSEMARYS_BABY.md |
 | 06 | *Onibaba* (1964) + *Kwaidan* (1964) | Completed | 03_FILM_STUDIES/PAIR_06_ONIBABA_KWAIDAN.md |
 | 07 | *Viy* (1967) + *Nang Nak* (1999) | Completed | 03_FILM_STUDIES/PAIR_07_VIY_NANG_NAK.md |
+| 08 | *The Exorcist* (1973) + *Manichitrathazhu* (1993) | Completed | 03_FILM_STUDIES/PAIR_08_THE_EXORCIST_MANICHITRATHAZHU.md |
 
 Pair 03 follows the titles explicitly placed at positions 3 and 4 in the supplied historical-core list, while Pair 02 remains the separately selected *Cure* / *Noroi* comparison.
 
 ## 5. Current next pair
 
-Pair 06 is complete: *Onibaba* (1964) + *Kwaidan* (1964). Pair 07 is complete: *Viy* (1967) + *Nang Nak* (1999). Pair 08 follows the next two titles in the user's supplied core order: *The Exorcist* (1973) + *Manichitrathazhu* (1993).
+Pair 06 is complete: *Onibaba* (1964) + *Kwaidan* (1964). Pair 07 is complete: *Viy* (1967) + *Nang Nak* (1999). Pair 08 is complete: *The Exorcist* (1973) + *Manichitrathazhu* (1993). Pair 09 follows the next two titles in the user's supplied core order: *Don't Look Now* (1973) + *Picnic at Hanging Rock* (1975).
 
 ## 6. Research method
 
