@@ -58,11 +58,16 @@ The supplied 235-page 1982 University of Pennsylvania Press edition was reviewed
 
 The supplied 372-page English digital text was reviewed across all 40 chapters in four parts, plus author notes and copyright material. The study maps Li Lan's journey from the Malacca 1893 ghost-marriage proposal through the Afterworld and Plains of the Dead and back to Malacca. It reconstructs the Lim Tian Ching death mystery separately from the underworld conspiracy, tracks the clue objects and character network, and records the afterlife's rules and costs. The author's notes are carefully separated from fiction: she explicitly identifies the Plains of the Dead as her invention and Er Lang's dragon form as an adaptation. The copyright page identifies the work as fiction. No KARUPPI canon changes were made.
 
-## Next phase: five-book comparative synthesis
+## Next phase: comparative synthesis across the nine-book set
 
-1. Compare all five books across their distinct research functions: mystery architecture, community folklore, historical belief and evidence mediation, experience-centered testimony, and ritual / social systems.
-2. Extract only techniques that remain relevant when tested against the actual KARUPPI Master Story Bible.
-3. Identify research gaps that still require region-specific Tamil folklore and rural social-history sources.
-4. Then begin the separate **20-film international research programme**, using scene-level study rather than a recommendation-only list.
+The five-book international sequence is complete and will form one component of a larger comparative synthesis with the completed two-book psychology supplement and two final books (FINAL-001 and FINAL-002).
+
+1. Compare all nine books across their distinct research functions: mystery architecture, community folklore, historical belief and evidence mediation, experience-centered testimony, ritual / social systems, existential meaning, moral intuition, intergroup conflict and moral decision-making.
+2. Keep fiction, memoir, historical scholarship, psychological research and philosophical argument separate. Do not treat all claims as the same kind of evidence.
+3. Extract only techniques that remain relevant when tested against the actual KARUPPI Master Story Bible.
+4. Identify remaining research gaps that require region-specific Tamil folklore and rural social-history sources rather than filling them with foreign analogies.
+5. Then begin the separate **20-film international research programme**, using scene-level study rather than a recommendation-only list.
 
 **Rule:** The aim is not to accumulate references. It is to build a reliable research model for a Tamil folklore-based mystery thriller.
+
+**Book-phase status:** Closed. The selected nine-book set is complete. No canon or mythology changes have been made.
