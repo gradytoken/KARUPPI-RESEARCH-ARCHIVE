@@ -64,7 +64,7 @@ The following titles remain candidates for future study, not completed work or a
 
 Other titles previously noted for possible later consideration: *Sorna Regai*, *Ettu Bommai Kaaval*, *Rudraveenai*, *Mahadeva Ragasiyam*, *Kannigal Ezhu Per*, *Iyandira Paravai*, and *Maayamaaga Pogiraargal*.
 
-**Selection rule:** Choose any additional Indra title only when a defined craft question justifies it. Do not read titles merely to increase the archive count. ISR-008 is complete. The defined historical-core, reserve, director-masters and modern film programme, plus the three-series reference shelf, are now complete. New screen studies require a distinct research question and explicit scope. When region-specific Tamil cultural research resumes, first establish KARUPPI's exact fictional region from the reconciled Master Story Bible.
+**Selection rule:** Choose any additional Indra title only when a defined craft question justifies it. Do not read titles merely to increase the archive count. ISR-008 is complete. The defined historical-core, reserve, director-masters and modern film programme, plus the three-series reference shelf, are now complete. New screen studies require a distinct research question and explicit scope. When region-specific Tamil cultural research resumes, first establish the project's exact fictional region from the reconciled Master Story Bible.
 
 ## Psychology and comparative syntheses
 
