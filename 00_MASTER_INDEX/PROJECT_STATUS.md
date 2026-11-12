@@ -4,6 +4,7 @@
 **International book sequence:** 5 / 5 completed (INTL-001, INTL-002, INTL-003, INTL-004 and INTL-005)
 **Psychology supplement:** 2 / 2 completed (PSYCH-001 *The Righteous Mind* and PSYCH-002 *Man's Search for Meaning*)
 **Final book additions:** 2 / 2 completed (FINAL-001 *The Stranger* and FINAL-002 *Moral Tribes*)  
+**Nine-book comparative synthesis:** Completed (CMP-001)  
 **Status:** Research and study phase. Story redevelopment is intentionally paused.
 
 ## Active creative foundation
@@ -42,6 +43,8 @@ The prior historical mythology is not active canon. Park the following material 
 
 No replacement mythology has been approved. Earlier assistant-proposed alternatives are not canon. Do not invent a replacement Story B while the project is in research mode.
 
+**Master Story Bible version conflict:** The available file named KARUPPI_The_Betrayed_Guardian_Master_Story_Bible.txt still contains the removed historical Karuppi / Maari backstory, Ravi-Selvaraj triangle, counter-spell and ring lineage. This conflicts with the removal decision recorded above and in the 2026-11-12 project archive. The file's upload / revision date is not established by its text. Do not treat those sections as active canon until the user supplies or confirms the reconciled current version. The current-day research questions remain bounded by the active project-status record.
+
 ## Current phase objective
 
 Build a rigorous research library by studying one book or film at a time. The archive currently includes studies / notes for *Vittu Vidu Karuppa!*, *Ragasiyamaaga Oru Ragasiyam*, *Adhu Mattum Ragasiyam*, *Aranmanai Ragasiyam 1*, *Kallukkul Pugundha Uyir*, *Abaya Vanam* and *Chidambara Ragasiyam*, plus all five international book studies, INTL-001 (*The Inugami Curse*), INTL-002 (*Folk*), INTL-003 (*The Night Battles*), INTL-004 (*The Terror That Comes in the Night*) and INTL-005 (*The Ghost Bride*). *Thangakkaadu* remains blocked, and *Rosemary's Baby* is represented by selected sensory observations. Conditional craft-transfer notes are research applications, not story decisions. PSYCH-001 (*The Righteous Mind*) adds moral psychology; PSYCH-002 (*Man's Search for Meaning*) adds existential motivation, responsibility and meaning under pressure. Both have conditional character-conflict worksheets and neither changes story canon.
@@ -69,4 +72,4 @@ Do not start a screenplay, rebuild the mythology, or produce new plot explanatio
 
 ## Immediate next step
 
-PSYCH-002 (*Man's Search for Meaning*) completed the psychology supplement. FINAL-001 (*The Stranger*) and FINAL-002 (*Moral Tribes*) are now complete, each with a detailed source dossier and a separate conditional KARUPPI transfer note. **The selected book-research phase is closed (9/9 selected books: five international, two psychology, two final additions).** The next task is a comparative synthesis across all nine works, distinguishing each source's research purpose and limitations. Test every proposed transfer against the latest Master Story Bible. After the synthesis, proceed to the planned 20-film international research programme. Continue in research-only mode. Do not begin story development, modify the mythology or establish plot explanations without explicit user authorisation.
+PSYCH-002 completed the psychology supplement, and FINAL-001 and FINAL-002 completed the final book extension. **The selected nine-book research phase and CMP-001 comparative synthesis are complete.** The synthesis is archived at 06_COMPARATIVE_ANALYSIS/NINE_BOOK_COMPARATIVE_SYNTHESIS.md. It keeps source types distinct, compares all eight requested dimensions, and records both transferable mechanisms and cultural boundaries. The next research phase is the planned 20-film international programme using scene-level study. Before any story-specific application, reconcile the available Master Story Bible with the removed-Story-B boundary recorded above. Continue in research-only mode. Do not begin story development, modify mythology or establish plot explanations without explicit user authorisation.
