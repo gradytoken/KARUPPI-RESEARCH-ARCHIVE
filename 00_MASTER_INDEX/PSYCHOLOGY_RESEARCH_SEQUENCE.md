@@ -52,6 +52,8 @@ No KARUPPI canon changes were made.
 
 ## Relationship to the final two-book extension
 
-The psychology supplement is closed. The final two-book extension is also complete: FINAL-001 (*The Stranger*, Albert Camus) and FINAL-002 (*Moral Tribes*, Joshua D. Greene) each have a full source study and conditional transfer note. The selected nine-book research phase is closed. The next step is the comparative synthesis across all nine selected books, followed by the separate 20-film international research programme.
+The psychology supplement is closed, and the final two-book extension is complete. CMP-001, the comparative synthesis across the five international books, two psychology books and two final additions, is archived at `06_COMPARATIVE_ANALYSIS/NINE_BOOK_COMPARATIVE_SYNTHESIS.md`. It compares the sources across eight dimensions and preserves the distinction between empirical psychology, memoir, fiction, historical evidence and philosophical argument.
 
-The goal is not to accumulate terminology. It is to create a dependable understanding of human motivation, moral conflict, responsibility, belonging, grief and choice that can be tested against the latest KARUPPI Master Story Bible.
+The next planned research phase is the separate 20-film international programme, using scene-level analysis. The synthesis records a conflict between the available Master Story Bible file and the repository's removed-Story-B boundary. Reconcile the source document before story-specific transfer.
+
+The goal is not to accumulate terminology. It is to create a dependable understanding of human motivation, moral conflict, responsibility, belonging, grief and choice that can be tested against the confirmed current KARUPPI story source.
