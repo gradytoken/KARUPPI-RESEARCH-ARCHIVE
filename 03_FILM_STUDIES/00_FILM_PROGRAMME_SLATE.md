@@ -103,12 +103,30 @@ Do not claim a first-person frame-by-frame viewing if the research is source-led
 All film studies are research only. Do not create story explanations, import source-film mythology into KARUPPI, alter any character or event, or make plot proposals unless the user explicitly changes the scope.
 
 
-## 9. Director masters reference shelf (proposed follow-on)
+## 9. Director masters reference shelf — completed
 
-This is a separate reference shelf, not part of the completed 20-film core or the reserve shelf. It addresses an acknowledged coverage gap in major directors. Kurosawa is already represented by *Rashomon* (1950), Pair 01, but additional works are proposed. Titles below are proposed for future study, not completed analyses or canon decisions.
+**Status:** 3 / 3 director-specific comparative dossiers completed.  
+**Selection rule:** Two films per director, chosen for complementary craft coverage and relevance to the existing mystery, suspense and horror research. This is a focused study selection, not a definitive ranking of each director's entire filmography. *Rashomon* remains a completed historical-core study and is cross-referenced rather than counted as a new Kurosawa title.
 
-- **Akira Kurosawa:** *Rashomon* (1950, already covered); *Throne of Blood* (1957) for supernatural prophecy, guilt, fog, Noh-derived form and tragic violence; *High and Low* (1963) for investigation, procedural suspense, class and spatial structure.
-- **Ingmar Bergman:** *The Seventh Seal* (1957) for mortality, faith, plague and allegorical dread; *Persona* (1966) for identity, performance, silence and unstable subjectivity; *Hour of the Wolf* (1968) for nightmare, folklore, isolation and psychological horror.
-- **Alfred Hitchcock:** *Vertigo* (1958) for obsession, identity reconstruction, visual motifs and misdirection; *Psycho* (1960) for point of view, structural rupture, editing and sound; *The Birds* (1963) for unexplained collective threat, sound design and community response.
+### Akira Kurosawa
+- *Throne of Blood* (1957) + *High and Low* (1963)
+- **PAIR 13:** [PAIR_13_KUROSAWA_THRONE_OF_BLOOD_HIGH_AND_LOW.md](PAIR_13_KUROSAWA_THRONE_OF_BLOOD_HIGH_AND_LOW.md)
+- Study contrast: Shakespearean supernatural tragedy, Noh-derived form and tragic power versus contemporary kidnapping procedure, spatial evidence, class and urban geography.
+- *Rashomon* (1950) remains covered in Pair 01. *Seven Samurai* and other titles were not included in this two-film extension.
 
-Selection is deliberately craft-led. These films should not be added merely to inflate the list. If the shelf proceeds, each title's film, edition, cultural boundary and craft question must be studied independently.
+### Ingmar Bergman
+- *The Seventh Seal* (1957) + *Hour of the Wolf* (1968)
+- **PAIR 14:** [PAIR_14_BERGMAN_SEVENTH_SEAL_HOUR_OF_WOLF.md](PAIR_14_BERGMAN_SEVENTH_SEAL_HOUR_OF_WOLF.md)
+- Study contrast: existential allegory, death and public plague imagery versus isolated psychological horror, nightmares, testimony and folkloric language.
+- *Persona* (1966) was considered but not selected for this two-film extension.
+
+### Alfred Hitchcock
+- *Vertigo* (1958) + *Psycho* (1960)
+- **PAIR 15:** [PAIR_15_HITCHCOCK_VERTIGO_PSYCHO.md](PAIR_15_HITCHCOCK_VERTIGO_PSYCHO.md)
+- Study contrast: obsession, identity construction, visual motifs and shifting spectator knowledge versus point-of-view rupture, montage, sound and structural suspense.
+- *The Birds* (1963) was considered but not selected for this two-film extension.
+
+### Completion note
+The Masters shelf is now complete for the scope selected here: six films across three comparative dossiers. The unselected candidates are not rejected as lesser works. They remain possible future studies only if a distinct craft question justifies them. All dossiers are source-led, record edition/runtime discrepancies, avoid unverified exact timecodes, and preserve the research-only boundary.
+
+## 10. Research method
