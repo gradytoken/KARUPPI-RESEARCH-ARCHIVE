@@ -37,7 +37,7 @@
 
 **CMP-001:** `06_COMPARATIVE_ANALYSIS/NINE_BOOK_COMPARATIVE_SYNTHESIS.md`
 
-The completed synthesis compares all nine books across mystery architecture, folklore, human psychology, community behaviour, moral conflict, existential conflict, evidence and belief, and horror construction. It distinguishes source types, preserves the Haidt / Greene disagreement, defines the seven-layer research model, records uncertainty types, and separates transferable techniques from culturally specific material requiring Tamil regional verification.
+The completed synthesis compares all nine books across mystery architecture, folklore, human psychology, community behaviour, moral conflict, existential conflict, evidence and belief, and horror construction.The completed synthesis compares all nine books across mystery architecture, folklore, human psychology, community behaviour, moral conflict, existential conflict, evidence and belief, and horror construction. The expanded CMP-002 synthesis then compares those nine international references with six studied Indra Soundar Rajan works, producing a 15-book combined corpus while maintaining the source-specific limits. It distinguishes source types, preserves the Haidt / Greene disagreement, defines the seven-layer research model, records uncertainty types, and separates transferable techniques from culturally specific material requiring Tamil regional verification.
 
 **Next phase:** the separate 20-film international research programme, using scene-level study. Tamil-specific cultural research gaps remain open and must be filled with local sources, not foreign analogies.
 
