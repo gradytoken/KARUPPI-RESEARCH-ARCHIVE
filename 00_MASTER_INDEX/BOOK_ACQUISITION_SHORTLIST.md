@@ -1,16 +1,17 @@
 # Book Acquisition Shortlist — Indra Soundar Rajan
 
-**Status:** Updated after completion of *Abaya Vanam* (ISR-007), following ISR-005 and ISR-006.
+**Status:** Updated after completion of *Chidambara Ragasiyam* (ISR-008).
 
 ## Completed acquisitions
 
 - **Aranmanai Ragasiyam 1** — supplied 74-page scan studied. Its actual story centres on Parani, Banarasidas, the Naga Ratnam, Naga Karadu, the coral Devi / Sri Chakra secret, and an ambiguous coma ending. This does **not** match the simplified haunted-Western-Ghats-mansion description previously found in retailer copy. The scan's imprint differs from the external listing; edition match remains unresolved.
 - **Kallukkul Pugundha Uyir** — supplied 74-page PDF studied across all 11 chapters. The story braids Naganatha Pillai's paralysis, Nandana's threat and police protection, Vidaithangi's agrarian Nandi tradition, a Pallava-era sculptor / tapas-yogi account, and the rare animation of a Nandi statue. Independent references support the broad context of Nandi facing a Shiva shrine and Shilpa-related architecture / sculpture texts. The novel's 32-lakshana Nandi, damaged mark and 108-year animation cycle remain fictional / unverified claims.
 - **Abaya Vanam** — supplied 320-page PDF, 38 numbered chapters. First-pass full-arc and chapter-structure study completed using rendered page images because the Tamil text layer is corrupted. The book's main subject is the forest as a spiritual, ecological, botanical, ritual, and practical knowledge system. Siddha / Jeeva Samadhi / nakshatra-tree claims are separated from independent context. The contemporary frame's final Siddha-physician encounter remains ambiguous. Publication year / edition not established.
+- **Chidambara Ragasiyam** — supplied 541-page PDF, 90 numbered sections. First-pass full-structure study and targeted verification completed. This is a temple-reference compilation on Chidambaram, not a story collection. It is most useful for sacred-space mapping, institutional roles, ritual time and temple history. The Tamil text layer is corrupted, but page images are clear. Historical claims are separated from Puranic tradition and devotional interpretation. Publication / edition details not established.
 
-## Next requested source
+## Next research direction
 
-1. **Chidambara Ragasiyam** — story collection. Await the contents page so relevant stories can be selected rather than studying 541 pages indiscriminately.
+No further general-purpose Indra Soundar Rajan book is automatically queued. First establish the fictional village's exact region from the latest Master Story Bible. Then acquire one regionally relevant folklore / ethnographic source and one village / rural social-history source, selected against the actual research gaps. Keep the project in research-only mode.
 
 ## Page-3 screenshot titles to investigate, not yet recommend
 
