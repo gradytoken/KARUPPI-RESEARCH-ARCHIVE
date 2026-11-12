@@ -1,7 +1,7 @@
 # KARUPPI — International Film Research Programme
 
 **Status:** Historical core and shelves confirmed by the user on 2026-11-12  
-**Research mode:** Comparative film study only  
+**Research mode:** Comparative film and series study only  
 **Canon boundary:** This programme does not authorise any KARUPPI story explanation, story development, mythology revision, or canon change.
 
 ## 1. Historical core — 20 films (1950–2009)
@@ -41,12 +41,14 @@ These titles are outside the first 20 and remain reserves, not completed studies
 - *The Orphanage* (2007)
 - *Ringu* (1998)
 
-## 3. Modern comparative extension
+## 3. Modern comparative extension — completed
 
-These titles sit outside the historical core and reserve shelf.
+These titles sit outside the historical core and reserve shelf. Their comparative dossier is complete as Pair 16.
 
 - *The Wailing* (2016)
 - *Hereditary* (2018)
+- Archive: `03_FILM_STUDIES/PAIR_16_THE_WAILING_HEREDITARY.md`
+- Research contrast: communal uncertainty, competing religious and investigative authorities, and rural social panic versus domestic grief, miniature space, inherited occult design and sonic foreshadowing.
 
 ## 4. Completed / selected comparative pair studies
 
@@ -66,7 +68,8 @@ Pair numbering records the actual study sequence, not a mechanical pairing of ad
 | 10 | *The Shining* (1980) + *The Devil's Backbone* (2001) | Completed | 03_FILM_STUDIES/PAIR_10_THE_SHINING_DEVILS_BACKBONE.md |
 | 11 | *The Haunting* (1963) + *Kuroneko* (1968) | Completed | 03_FILM_STUDIES/PAIR_11_THE_HAUNTING_KURONEKO.md |
 | 12 | *A Tale of Two Sisters* (2003) + *The Orphanage* (2007) | Completed | 03_FILM_STUDIES/PAIR_12_A_TALE_OF_TWO_SISTERS_THE_ORPHANAGE.md |
-| 13 | *Ringu* (1998) | Completed, standalone reserve study | 03_FILM_STUDIES/FILM_13_RINGU_1998.md |
+| Standalone | *Ringu* (1998) | Completed reserve study | 03_FILM_STUDIES/FILM_13_RINGU_1998.md |
+| 16 | *The Wailing* (2016) + *Hereditary* (2018) | Completed modern extension | 03_FILM_STUDIES/PAIR_16_THE_WAILING_HEREDITARY.md |
 
 Pair 03 follows the titles explicitly placed at positions 3 and 4 in the supplied historical-core list, while Pair 02 remains the separately selected *Cure* / *Noroi* comparison.
 
@@ -92,15 +95,15 @@ Each pair should include, where evidence permits:
 - Transferable filmmaking mechanisms separated from culturally specific beliefs, symbols and practices.
 - Failure modes, limitations, unresolved questions and a pair verdict.
 
-## 7. Evidence integrity
+## 12. Evidence integrity
 
 Use the labels SOURCE, ANALYSIS, AUDIENCE PULSE, CULTURAL BOUNDARY, TRANSFERABLE MECHANISM, and OPEN / NEEDS VERIFICATION.
 
 Do not claim a first-person frame-by-frame viewing if the research is source-led. Do not convert approximate scene windows into exact timecodes. If the edition or runtime differs, record the difference. Folklore claims require independent cultural / historical sources and must not be inferred from a fictional film alone.
 
-## 8. Canon boundary
+## 13. Canon boundary
 
-All film studies are research only. Do not create story explanations, import source-film mythology into KARUPPI, alter any character or event, or make plot proposals unless the user explicitly changes the scope.
+All film and series studies are research only. Do not create story explanations, import source-film mythology into KARUPPI, alter any character or event, or make plot proposals unless the user explicitly changes the scope.
 
 
 ## 9. Director masters reference shelf — completed
@@ -128,6 +131,19 @@ All film studies are research only. Do not create story explanations, import sou
 
 ### Completion note
 The Masters shelf is now complete for the scope selected here: six films across three comparative dossiers. A cross-director synthesis is archived at [DIRECTOR_MASTERS_SYNTHESIS.md](DIRECTOR_MASTERS_SYNTHESIS.md). The unselected candidates are not rejected as lesser works. They remain possible future studies only if a distinct craft question justifies them. All dossiers are source-led, record edition/runtime discrepancies, avoid unverified exact timecodes, and preserve the research-only boundary.
-The Masters shelf is now complete for the scope selected here: six films across three comparative dossiers. The unselected candidates are not rejected as lesser works. They remain possible future studies only if a distinct craft question justifies them. All dossiers are source-led, record edition/runtime discrepancies, avoid unverified exact timecodes, and preserve the research-only boundary.
 
-## 10. Research method
+## 10. Modern extension and micro-series reference shelf — completed
+
+**Modern film extension:** Pair 16, *The Wailing* (2016) + *Hereditary* (2018), completed at `03_FILM_STUDIES/PAIR_16_THE_WAILING_HEREDITARY.md`.
+
+**Three selected series references:**
+
+- **SERIES 01 — *The Third Day* (2020):** Six standard episodes divided into Summer and Winter, plus the separately produced optional 12-hour live Autumn event. Best reference for bounded geography, ritual, community power and outsider viewpoint. Archive: `03_FILM_STUDIES/SERIES_01_THE_THIRD_DAY_2020.md`.
+- **SERIES 02 — *Midnight Mass* (2021):** Seven-episode limited series. Best reference for ensemble design, institutions, belief, social division and moral escalation. Archive: `03_FILM_STUDIES/SERIES_02_MIDNIGHT_MASS_2021.md`.
+- **SERIES 03 — *Katla* (2021):** One listed season of eight episodes. Netflix does not formally label it a limited series on its official page. Best reference for environmental storytelling, recurring mystery mechanisms and distributed character cases. Archive: `03_FILM_STUDIES/SERIES_03_KATLA_2021.md`.
+
+**Selection verdict:** *The Third Day* is the closest structural fit for a contained folk-horror micro-series. *Midnight Mass* is the strongest community / institution reference. *Katla* is the strongest environment / recurring-phenomenon reference. These are differentiated craft references, not templates to copy wholesale.
+
+**Cross-corpus synthesis:** `03_FILM_STUDIES/MODERN_AND_SERIAL_SCREEN_SYNTHESIS.md` compares the two modern films and all three series. The five works are research references only.
+
+## 11. Research method
