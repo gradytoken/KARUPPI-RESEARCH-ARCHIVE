@@ -64,7 +64,7 @@ Pair 03 follows the titles explicitly placed at positions 3 and 4 in the supplie
 
 ## 5. Current next pair
 
-Pair 06 is complete: *Onibaba* (1964) + *Kwaidan* (1964). Pair 07 follows the next two titles in the user's supplied core order: *Viy* (1967) + *Nang Nak* (1999).
+Pair 06 is complete: *Onibaba* (1964) + *Kwaidan* (1964). Pair 07 is next and follows the next two titles in the user's supplied core order: *Viy* (1967) + *Nang Nak* (1999).
 
 ## 6. Research method
 
