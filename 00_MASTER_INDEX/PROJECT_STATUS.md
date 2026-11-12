@@ -1,6 +1,6 @@
 # KARUPPI — Project Status and Canon Boundary
 
-**Archive baseline:** 2026-11-11  
+**Archive baseline:** 2026-11-12  
 **Status:** Research and study phase. Story redevelopment is intentionally paused.
 
 ## Active creative foundation
@@ -41,9 +41,9 @@ No replacement mythology has been approved. Earlier assistant-proposed alternati
 
 ## Current phase objective
 
-Build a rigorous research library by studying one book or film at a time. The archive currently includes studies / notes for *Vittu Vidu Karuppa!*, *Ragasiyamaaga Oru Ragasiyam*, *Adhu Mattum Ragasiyam*, *Aranmanai Ragasiyam 1*, *Kallukkul Pugundha Uyir*, *Thangakkaadu* (blocked), and selected sensory observations from *Rosemary's Baby*. The *Adhu Mattum Ragasiyam*, *Aranmanai Ragasiyam 1* and *Kallukkul Pugundha Uyir* studies have separate conditional craft-transfer notes, not story decisions.
+Build a rigorous research library by studying one book or film at a time. The archive currently includes studies / notes for *Vittu Vidu Karuppa!*, *Ragasiyamaaga Oru Ragasiyam*, *Adhu Mattum Ragasiyam*, *Aranmanai Ragasiyam 1*, *Kallukkul Pugundha Uyir*, and *Abaya Vanam*; *Thangakkaadu* remains blocked, and *Rosemary's Baby* is represented by selected sensory observations. The *Adhu Mattum Ragasiyam*, *Aranmanai Ragasiyam 1*, *Kallukkul Pugundha Uyir* and *Abaya Vanam* studies have separate conditional craft-transfer notes, not story decisions.
 
-Current craft questions include village life and collective behaviour, rules and consequences, mystery information flow, geography as a suspense mechanism, sensory motifs, conflicting belief systems, clue progression, and the coexistence of human deception with uncanny evidence.
+Current craft questions include village life and collective behaviour, rules and consequences, mystery information flow, geography as a suspense mechanism, sensory motifs, conflicting belief systems, clue progression, the coexistence of human deception with uncanny evidence, and the relationship between forest ecology, local belief, and practical knowledge.
 
 Do not start a screenplay, rebuild the mythology, or produce new plot explanations unless explicitly requested.
 
@@ -66,4 +66,4 @@ Do not start a screenplay, rebuild the mythology, or produce new plot explanatio
 
 ## Immediate next step
 
-Continue with the next selected book or film study only after the user chooses it. Grow the archive through evidence-labelled studies, not shallow summaries.
+ISR-007 (*Abaya Vanam*) is now archived as a first-pass full-arc / chapter-structure study with a conditional transfer note. The next requested source is *Chidambara Ragasiyam*, pending the contents page so relevant stories can be selected. Continue in research-only mode. Do not begin story development without the latest Master Story Bible and explicit user authorisation.
