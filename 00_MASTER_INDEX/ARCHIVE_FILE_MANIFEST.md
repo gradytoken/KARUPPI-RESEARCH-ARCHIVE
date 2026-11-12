@@ -1,6 +1,6 @@
 # Archive File Manifest
 
-Generated 2026-11-11. This list covers the Markdown files currently tracked in the repository, including this manifest.
+Generated 2026-11-12. This list covers the 29 Markdown files currently tracked in the repository, including this manifest.
 
 - `00_MASTER_INDEX/ARCHIVE_FILE_MANIFEST.md`
 - `00_MASTER_INDEX/BOOK_ACQUISITION_SHORTLIST.md`
@@ -15,6 +15,7 @@ Generated 2026-11-11. This list covers the Markdown files currently tracked in t
 - `02_BOOK_STUDIES/ISR_004_Adhu_Mattum_Ragasiyam.md`
 - `02_BOOK_STUDIES/ISR_005_Aranmanai_Ragasiyam.md`
 - `02_BOOK_STUDIES/ISR_006_Kallukkul_Pugundha_Uyir.md`
+- `02_BOOK_STUDIES/ISR_007_Abaya_Vanam.md`
 - `02_BOOK_STUDIES/_BOOK_STUDY_TEMPLATE.md`
 - `03_FILM_STUDIES/ROSEMARYS_BABY_SENSORY_GRAMMAR.md`
 - `03_FILM_STUDIES/_FILM_STUDY_TEMPLATE.md`
@@ -26,6 +27,7 @@ Generated 2026-11-11. This list covers the Markdown files currently tracked in t
 - `07_KARUPPI_APPLICATION/ISR_004_ADHU_MATTUM_RAGASIYAM_TRANSFER_NOTE.md`
 - `07_KARUPPI_APPLICATION/ISR_005_ARANMANAI_RAGASIYAM_TRANSFER_NOTE.md`
 - `07_KARUPPI_APPLICATION/ISR_006_KALLUKKUL_PUGUNDHA_UYIR_TRANSFER_NOTE.md`
+- `07_KARUPPI_APPLICATION/ISR_007_ABAYA_VANAM_TRANSFER_NOTE.md`
 - `08_STORY_DEVELOPMENT/README.md`
 - `09_ARCHIVE_BACKUPS/BACKUP_POLICY.md`
 - `README.md`
