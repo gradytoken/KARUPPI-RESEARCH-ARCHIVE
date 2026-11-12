@@ -215,3 +215,12 @@ Ending revelations recorded:
 The ending is not “Kasi was Karuppu” and not “everything supernatural was fake.” The final synthesis distinguishes the human impersonator, Sivakami's staged ghost, the genuine Karuppu intervention, and the teacher Varadarajan's sacrificial role.
 
 **ISR-002 source audit status: COMPLETE.** Remaining work is synthesis and cross-checking, not further page reading.
+
+
+## 16. Separate television adaptation study opened
+
+The novel source audit remains complete. A separate dossier has been created for *Marmadesam: Vidaathu Karuppu*: [`ISR_002_TV_ADAPTATION_STUDY.md`](ISR_002_TV_ADAPTATION_STUDY.md).
+
+Creator-context research confirms that director Naga disliked the novel's ending and introduced the Multiple Personality Disorder trope during adaptation. Indra Soundar Rajan wrote the television screenplay and dialogues as well as the novel. Naga also discussed Karuppu temple field research, visual / casting choices and weekly cliffhanger design.
+
+**Important status boundary:** source discovery and creator-context research are complete at this stage; the 82-episode scene-by-scene audit has not yet begun. The YouTube playlist is identified, but the current research interface does not expose reliable playback / full transcripts for all episodes. No scene-level claims have been invented. Episode audit requires accessible episode transcripts, captions, or user-provided timecoded viewing material.
