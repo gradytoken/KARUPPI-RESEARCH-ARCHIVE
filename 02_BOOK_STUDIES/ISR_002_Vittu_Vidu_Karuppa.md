@@ -195,3 +195,23 @@ Major developments: the safari-suit body remains part of a lure / observation op
 The dossier keeps Rina's Kasi theory distinct from proof, preserves the stranger age discrepancy, and leaves the safari-suit sequence unresolved pending the final pages.
 
 **Next and final source-audit range:** PDF pp. 285–298. Research only; no KARUPPI canon changes.
+
+
+## 15. Final page audit and ending synthesis — checkpoint 004
+
+The final consecutive range **PDF pp. 285–298** has been reviewed and visually checked. The source audit is now **complete: 298 / 298 pages (100%)**.
+
+Detailed final dossier: [`ISR_002_VITTU_VIDU_KARUPPA_PAGE_AUDIT_CHECKPOINT_004_FINAL.md`](ISR_002_VITTU_VIDU_KARUPPA_PAGE_AUDIT_CHECKPOINT_004_FINAL.md).
+
+Ending revelations recorded:
+- Sivakami admits to staging the Pechi Paati ghost through disguise and a hidden room.
+- The safari-suit body is identified as a CBI police officer killed by Kasi and used as bait in Rina's plan.
+- Kasi, son of Parandama Nayakkar, admits to wearing the Karuppu disguise and using fear to punish / control the village in the name of revenge and justice.
+- The final storm-time intervention is treated by witnesses as a genuine Karuppu presence, distinct from Kasi's impersonation.
+- Aravind recognises the mysterious helper as the person who had previously treated his injury.
+- The closing scene identifies the headless body as teacher Varadarajan, Shanmugam's father, who died doing a good deed. The final sequence strongly links Varadarajan to the recurring helper / protector, while preserving the novel's supernatural framing.
+- Lakshmi and Shanmugam's love is accepted in the closing resolution, and the hidden valuables are addressed.
+
+The ending is not “Kasi was Karuppu” and not “everything supernatural was fake.” The final synthesis distinguishes the human impersonator, Sivakami's staged ghost, the genuine Karuppu intervention, and the teacher Varadarajan's sacrificial role.
+
+**ISR-002 source audit status: COMPLETE.** Remaining work is synthesis and cross-checking, not further page reading.
