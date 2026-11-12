@@ -1,6 +1,7 @@
 # KARUPPI — Project Status and Canon Boundary
 
 **Archive baseline:** 2026-11-12  
+**International book sequence:** 2 / 5 completed (INTL-001 and INTL-002)  
 **Status:** Research and study phase. Story redevelopment is intentionally paused.
 
 ## Active creative foundation
@@ -41,7 +42,7 @@ No replacement mythology has been approved. Earlier assistant-proposed alternati
 
 ## Current phase objective
 
-Build a rigorous research library by studying one book or film at a time. The archive currently includes studies / notes for *Vittu Vidu Karuppa!*, *Ragasiyamaaga Oru Ragasiyam*, *Adhu Mattum Ragasiyam*, *Aranmanai Ragasiyam 1*, *Kallukkul Pugundha Uyir*, *Abaya Vanam* and *Chidambara Ragasiyam*, plus the first international book study, INTL-001 (*The Inugami Curse*). *Thangakkaadu* remains blocked, and *Rosemary's Baby* is represented by selected sensory observations. Conditional craft-transfer notes are research applications, not story decisions.
+Build a rigorous research library by studying one book or film at a time. The archive currently includes studies / notes for *Vittu Vidu Karuppa!*, *Ragasiyamaaga Oru Ragasiyam*, *Adhu Mattum Ragasiyam*, *Aranmanai Ragasiyam 1*, *Kallukkul Pugundha Uyir*, *Abaya Vanam* and *Chidambara Ragasiyam*, plus the first two international book studies, INTL-001 (*The Inugami Curse*) and INTL-002 (*Folk*). *Thangakkaadu* remains blocked, and *Rosemary's Baby* is represented by selected sensory observations. Conditional craft-transfer notes are research applications, not story decisions.
 
 Current craft questions include village life and collective behaviour, rules and consequences, mystery information flow, geography as a suspense mechanism, sensory motifs, conflicting belief systems, clue progression, the coexistence of human deception with uncanny evidence, and the relationship between forest ecology, local belief, and practical knowledge.
 
@@ -66,4 +67,4 @@ Do not start a screenplay, rebuild the mythology, or produce new plot explanatio
 
 ## Immediate next step
 
-INTL-001 (*The Inugami Curse*) is archived as a full-arc mystery study with a conditional transfer note. Continue the selected international book sequence in `00_MASTER_INDEX/INTERNATIONAL_BOOK_RESEARCH_SEQUENCE.md`: *Folk*, *The Night Battles*, *The Terror That Comes in the Night* and *The Ghost Bride*. Each book should add a distinct research lens rather than duplicate the previous study. After all five book studies, begin the planned 20-film international research programme. The latest Master Story Bible remains required before converting any research into story-specific applications. Continue in research-only mode. Do not begin story development without explicit user authorisation.
+INTL-001 (*The Inugami Curse*) and INTL-002 (*Folk*) are archived as completed full-book studies with separate conditional transfer notes. INTL-002 maps all 15 stories, the Neverness geography, recurring character network, community belief systems, sensory grammar and the circular opening / ending ritual. Continue the selected international sequence in `00_MASTER_INDEX/INTERNATIONAL_BOOK_RESEARCH_SEQUENCE.md`: INTL-003 *The Night Battles*, INTL-004 *The Terror That Comes in the Night* and INTL-005 *The Ghost Bride*. Each book must add a distinct research lens rather than duplicate the previous study. After INTL-005 and a five-book comparison, begin the planned 20-film international research programme. The latest Master Story Bible remains required before converting any research into story-specific applications. Continue in research-only mode. Do not begin story development without explicit user authorisation.
