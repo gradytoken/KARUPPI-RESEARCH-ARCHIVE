@@ -63,6 +63,10 @@ A folk verse, local belief, or elder's story can preserve real memory while dist
 
 No plot device, mythology, character, or signature image from these novels is approved for copying into KARUPPI.
 
+## 8. Relationship to the expanded all-book synthesis
+
+This document remains the preliminary Indra-only comparison. Its original source-depth warnings still apply. The wider cross-corpus synthesis is now archived as **CMP-002** at `06_COMPARATIVE_ANALYSIS/COMBINED_BOOK_SYNTHESIS_INDRA_AND_INTERNATIONAL.md`. CMP-002 compares the six studied Indra Soundar Rajan works with all nine international references, adds cross-corpus pattern recognition and an expanded research model, and retains this matrix as a focused Indra-only navigation aid. *Thangakkaadu* remains unstudied because the scan is blocked. No canon changes.
+
 
 ## 5. Additional comparative observation from ISR-005
 
