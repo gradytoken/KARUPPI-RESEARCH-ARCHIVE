@@ -235,3 +235,14 @@ This is more precise than describing the format as alternating timelines or occa
 Dedicated analysis: [`ISR_002_TV_NARRATIVE_ARCHITECTURE_ANDRU_INDRU.md`](ISR_002_TV_NARRATIVE_ARCHITECTURE_ANDRU_INDRU.md).
 
 The user has explicitly chosen not to rewatch the 82 episodes. Episode-level rewatch / timestamp audit is therefore **deliberately out of scope**, not pending work. TV structural research is closed for this phase. Do not claim independent episode verification.
+
+
+## 18. Consolidated final synthesis — completed
+
+The four resumed page-audit checkpoints, together with the earlier pages 1–81 review record, have now been consolidated into a separate final research document:
+
+**[`ISR_002_VITTU_VIDU_KARUPPA_FINAL_SYNTHESIS.md`](ISR_002_VITTU_VIDU_KARUPPA_FINAL_SYNTHESIS.md)**
+
+The new document contains the completed narrative synthesis, cautious causal chronology, character / relationship map, mystery-thread resolutions, object and evidence ledger, evidence-versus-belief distinctions, ending architecture, research-derived craft principles, and remaining verification limits.
+
+This addendum does not replace or rewrite the original high-level study or any page-audit checkpoint. The final synthesis is a separate, cumulative research layer. The novel's 298-page source audit remains complete. The television adaptation remains separately documented and is not represented as an 82-episode rewatch.
