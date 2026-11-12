@@ -58,12 +58,13 @@ Pair numbering records the actual study sequence, not a mechanical pairing of ad
 | 02 | *Cure* (1997) + *Noroi: The Curse* (2005) | Completed | 03_FILM_STUDIES/PAIR_02_CURE_NOROI.md |
 | 03 | *The White Reindeer* (1952) + *Ugetsu* (1953) | Completed | 03_FILM_STUDIES/PAIR_03_WHITE_REINDEER_UGETSU.md |
 | 04 | *The Night of the Hunter* (1955) + *The Wicker Man* (1973) | Completed | 03_FILM_STUDIES/PAIR_04_NIGHT_OF_THE_HUNTER_WICKER_MAN.md |
+| 05 | *The Innocents* (1961) + *Rosemary's Baby* (1968) | Completed | 03_FILM_STUDIES/PAIR_05_THE_INNOCENTS_ROSEMARYS_BABY.md |
 
 Pair 03 follows the titles explicitly placed at positions 3 and 4 in the supplied historical-core list, while Pair 02 remains the separately selected *Cure* / *Noroi* comparison.
 
 ## 5. Current next pair
 
-Pair 05 follows the next two titles in the user's supplied core order: *The Innocents* (1961) + *Rosemary's Baby* (1968).
+Pair 06 follows the next two titles in the user's supplied core order: *Onibaba* (1964) + *Kwaidan* (1964).
 
 ## 6. Research method
 
