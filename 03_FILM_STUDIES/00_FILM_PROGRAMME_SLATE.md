@@ -56,7 +56,7 @@ Pair numbering records the actual study sequence, not a mechanical pairing of ad
 |---|---|---|---|
 | 01 | *Rashomon* (1950) + *The Vanishing* (1988) | Completed | 03_FILM_STUDIES/PAIR_01_RASHOMON_THE_VANISHING.md |
 | 02 | *Cure* (1997) + *Noroi: The Curse* (2005) | Completed | 03_FILM_STUDIES/PAIR_02_CURE_NOROI.md |
-| 03 | *The White Reindeer* (1952) + *Ugetsu* (1953) | Current study | 03_FILM_STUDIES/PAIR_03_WHITE_REINDEER_UGETSU.md |
+| 03 | *The White Reindeer* (1952) + *Ugetsu* (1953) | Completed | 03_FILM_STUDIES/PAIR_03_WHITE_REINDEER_UGETSU.md |
 
 Pair 03 follows the titles explicitly placed at positions 3 and 4 in the supplied historical-core list, while Pair 02 remains the separately selected *Cure* / *Noroi* comparison.
 
