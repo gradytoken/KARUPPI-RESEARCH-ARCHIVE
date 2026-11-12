@@ -162,3 +162,12 @@ Key ending distinctions:
 - The lovers' relationship and the hidden valuables receive closing resolution.
 
 **Status:** page audit complete. Remaining work is synthesis, chronology reconciliation, character graph and final evidence-versus-belief map. Research only; no KARUPPI canon changes or direct plot transfer are authorised.
+
+
+## New study opened — ISR-002 television adaptation (2026-11-12)
+
+A separate research dossier, `02_BOOK_STUDIES/ISR_002_TV_ADAPTATION_STUDY.md`, has been created for *Marmadesam: Vidaathu Karuppu*. The novel audit remains complete and unchanged.
+
+Initial creator-context research confirms from Naga's 2019 interview that he disliked the novel ending and introduced the Multiple Personality Disorder trope for the TV adaptation; Indra Soundar Rajan wrote the TV screenplay and dialogues. Naga also discussed Karuppu temple field research, the 18 steps at Azhagar Kovil, the sandalwood-scent tradition, casting / visual family resemblance and weekly cliffhanger design. Contemporary press coverage reports an 82-episode season and the official Kavithalayaa YouTube release.
+
+**Status honesty:** creator-context research and source discovery are complete; the episode-by-episode scene audit has NOT started. The YouTube playlist has been identified, but this interface does not provide reliable full playback / transcripts for all 82 episodes. Do not claim to have watched episodes or invent scene summaries. Next operational step: obtain accessible captions / transcripts or user-provided timecoded episode material, then audit Episodes 1–5.
