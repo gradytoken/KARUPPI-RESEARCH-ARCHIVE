@@ -1,4 +1,4 @@
-# ISR-009 Transfer Note — The Inugami Curse
+# INTL-001 Transfer Note — The Inugami Curse
 
 **Source:** Seishi Yokomizo, *The Inugami Curse* (English translation by Yumiko Yamazaki)  
 **Classification:** APPLICATION / conditional craft transfer only  
