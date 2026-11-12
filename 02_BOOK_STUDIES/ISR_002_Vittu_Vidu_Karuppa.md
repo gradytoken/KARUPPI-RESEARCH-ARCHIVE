@@ -148,3 +148,24 @@ Do not copy the novel's bell device, folk verse, plot, treasure mechanism, disgu
 - Add page-specific evidence for every source claim.
 
 **Study verdict:** Most useful for KARUPPI: community behaviour, oral-memory atmosphere, legible geography, and consequential physical clues. Confidence is high that these points formed part of the prior reading synthesis, but fine-grained structural claims require a page-referenced audit.
+
+
+## 12. Resumed page audit — checkpoint 001
+
+A resumed page-range audit was completed on 2026-11-12 for the consecutive range **PDF pp. 82–197**, following the prior conversation checkpoint of 81 / 298 pages reviewed. The cumulative progress marker is now **197 / 298 (66.1%)**. This is a review tally, not a claim that every page 1–197 has been independently re-verified in the resumed pass.
+
+The Tamil text layer has character / spacing corruption. Extracted text was used for navigation, and selected high-impact pages were checked against rendered page images. The audit records chapter boundaries, source observations, character reports / beliefs, analysis, object chains and unresolved questions.
+
+**New detailed checkpoint:** [`ISR_002_VITTU_VIDU_KARUPPA_PAGE_AUDIT_CHECKPOINT_001.md`](ISR_002_VITTU_VIDU_KARUPPA_PAGE_AUDIT_CHECKPOINT_001.md)
+
+Key findings carried into the register:
+- Rajendran is named in the Karuppu marriage pronouncement involving Selvi.
+- A 1975 childhood episode recounts a sandalwood-scented stranger carrying young Rajendran home; the family's identification of the stranger as Karuppu remains a belief.
+- Mokkamaayan's theft / attempted robbery is a human-crime strand, separate from supernatural claims.
+- Page 161's checked image shows a ₹20,000 sale instrument in a transaction Parandama appears to understand as borrowing / promissory-note business.
+- Page 164's checked image identifies the ring on Kattaiyan as the engagement ring Parandama bought and placed on Rajathi's hand. Its transfer is unresolved; it is not established as part of the stolen jewellery.
+- Pages 176–177 show police property identification / recovery activity; complete inventory reconciliation remains open.
+- Page 191's checked image explicitly describes Rajathi, Parandama and Anjappam as suicide victims. Motive and full circumstances remain unresolved.
+- Pichchamma withholds information connected with Rajathi's honour; the disclosure and its implications remain open.
+
+The new file corrects overconfident interpretations in the conversation summaries and labels uncertain names / relationships. Continue with **PDF pp. 198–226**. No KARUPPI canon changes or direct plot transfer are authorised.
