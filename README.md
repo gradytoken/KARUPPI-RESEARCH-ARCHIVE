@@ -1,6 +1,15 @@
-# KARUPPI — Research Archive
+# UNTITLED GUARDIAN PROJECT — Research Archive
 
-A version-controlled, evidence-led research library for **KARUPPI: The Betrayed Guardian**, an animated Tamil folklore-horror mystery film.
+A version-controlled, evidence-led research archive supporting an animated Tamil folklore-horror mystery film. The active working identifier is **UNTITLED GUARDIAN PROJECT**.
+
+## Project identity and naming
+
+- **Temporary working identifier:** UNTITLED GUARDIAN PROJECT.
+- **Retired active titles:** KARUPPI: THE BETRAYED GUARDIAN and PEY KARUPPI. Do not use either as the current story title or active project identity.
+- The titles were retired because they imply a direct identity or mythology association that the story has deliberately avoided establishing.
+- This is a naming correction only. Existing story material and approved decisions are preserved. No new mythology or replacement premise is implied.
+- The GitHub repository slug and historical research IDs remain unchanged for archival continuity. Legacy book titles, research labels, folder names and source references are not automatically renamed.
+- The final title remains open and must emerge from the story's own identity.
 
 ## Project boundary
 
@@ -57,7 +66,7 @@ The five-book international sequence, two-book psychology supplement, and final 
 
 - **SOURCE** — what the source demonstrably contains.
 - **ANALYSIS** — our interpretation of why or how it works.
-- **APPLICATION** — a possible technique for KARUPPI; not canon unless explicitly approved.
+- **APPLICATION** — a possible technique for the story project; not canon unless explicitly approved.
 - **OPEN / NEEDS VERIFICATION** — incomplete, uncertain, or requiring a primary-source check.
 
 ## Working principles
