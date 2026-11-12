@@ -267,14 +267,15 @@ The two films demonstrate different kinds of audience control. One is accumulati
 ## 15. Source ledger
 
 1. BFI, *Vertigo* (1958) film record, 128-minute listing: https://www.bfi.org.uk/film/489eada8-7d7e-594c-acac-5903f43f4b85/vertigo
-2. BFI Sight and Sound, Miguel Marías, “Forever falling: what makes Vertigo great” (updated 13 November 2019): https://www.bfi.org.uk/sight-and-sound/features/vertigo-1958-alfred-hitchcock-greatest-films-poll
-3. American Cinematographer, George E. Turner, “Vertigo: Hitchcock's Acrophobic Vision” (9 March 2018), VistaVision photography and production context: https://theasc.com/article/flashback-vertigo/
-4. Pat Kirkham, “Reassessing the Saul Bass and Alfred Hitchcock Collaboration,” *West 86th*, Vol. 18, No. 1 (2011): https://west86th.bgc.bard.edu/articles/reassessing-the-saul-bass-and-alfred-hitchcock-collaboration/
-5. AFI Catalog, *Psycho* (1960), production records, credits, runtime and print information: https://catalog.afi.com/Film/53260-PSYCHO
-6. BFI, *Psycho* (1960) film record, 108-minute listing: https://www.bfi.org.uk/film/18313136-53d5-53d4-a89b-1d19d24a30f2/psycho
-7. TCM, Rob Nixon, “Behind the Camera - Psycho” (4 January 2008), production and music history: https://www.tcm.com/articles/191164/behind-the-camera-psycho
-8. Oxford Academic, John Billheimer, “Psycho (1960),” in *Hitchcock and the Censors* (2019), including the shower sequence and censorship history: https://academic.oup.com/kentucky-scholarship-online/book/34148/chapter-abstract/289478059
-9. Oxford Academic, Steven C. Smith, “Something Terrible Is Going to Happen: Psycho, Part 1,” in *Hitchcock and Herrmann: The Friendship and Film Scores that Changed Cinema* (published 21 August 2025): https://academic.oup.com/book/60783/chapter-abstract/528600602
+2. AFI Catalog, *Vertigo* (1958), literary source, production records and multiple duration listings: https://catalog.afi.com/Catalog/MovieDetails/52788
+3. BFI Sight and Sound, Miguel Marías, “Forever falling: what makes Vertigo great” (updated 13 November 2019): https://www.bfi.org.uk/sight-and-sound/features/vertigo-1958-alfred-hitchcock-greatest-films-poll
+4. American Cinematographer, George E. Turner, “Vertigo: Hitchcock's Acrophobic Vision” (9 March 2018), VistaVision photography and production context: https://theasc.com/article/flashback-vertigo/
+5. Pat Kirkham, “Reassessing the Saul Bass and Alfred Hitchcock Collaboration,” *West 86th*, Vol. 18, No. 1 (2011): https://west86th.bgc.bard.edu/articles/reassessing-the-saul-bass-and-alfred-hitchcock-collaboration/
+6. AFI Catalog, *Psycho* (1960), production records, credits, runtime and print information: https://catalog.afi.com/Film/53260-PSYCHO
+7. BFI, *Psycho* (1960) film record, 108-minute listing: https://www.bfi.org.uk/film/18313136-53d5-53d4-a89b-1d19d24a30f2/psycho
+8. TCM, Rob Nixon, “Behind the Camera - Psycho” (4 January 2008), production and music history: https://www.tcm.com/articles/191164/behind-the-camera-psycho
+9. Oxford Academic, John Billheimer, “Psycho (1960),” in *Hitchcock and the Censors* (2019), including the shower sequence and censorship history: https://academic.oup.com/kentucky-scholarship-online/book/34148/chapter-abstract/289478059
+10. Oxford Academic, Steven C. Smith, “Something Terrible Is Going to Happen: Psycho, Part 1,” in *Hitchcock and Herrmann: The Friendship and Film Scores that Changed Cinema* (published 21 August 2025): https://academic.oup.com/book/60783/chapter-abstract/528600602
 
 ## 16. Open questions
 
