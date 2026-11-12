@@ -25,8 +25,7 @@ The following titles remain candidates for future study, not completed work or a
 
 1. *Olivadharku Vazhi Illai* (also associated with the English title *The Aayakudi Murders*).
 2. *Kaatraai Varuven*.
-
-4. *Aindhu Vazhi Moondru Vaasal*.
+3. *Aindhu Vazhi Moondru Vaasal*.
 
 Other titles previously noted for possible later consideration: *Sorna Regai*, *Ettu Bommai Kaaval*, *Rudraveenai*, *Mahadeva Ragasiyam*, *Kannigal Ezhu Per*, *Iyandira Paravai*, and *Maayamaaga Pogiraargal*.
 
