@@ -15,7 +15,7 @@ The five titles deliberately cover different research functions. They are not si
 | INTL-002 | *Folk* | Zoe Gilbert; fictional British island | Community folklore, oral memory, belief across generations | **Completed** |
 | INTL-003 | *The Night Battles* | Carlo Ginzburg; northern Italy, 16th–17th centuries | Historical microhistory, folk belief, interrogation and evidence mediation | **Completed** |
 | INTL-004 | *The Terror That Comes in the Night* | David J. Hufford; Newfoundland | Experience-centred folklore, witness accounts, competing explanations | **Completed** |
-| INTL-005 | *The Ghost Bride* | Yangsze Choo; colonial Malaya, 1890s | Ritual belief, family power, social consequences and supernatural mystery | Planned |
+| INTL-005 | *The Ghost Bride* | Yangsze Choo; colonial Malaya, 1890s | Ritual belief, family power, social consequences and supernatural mystery | **Completed** |
 
 ## INTL-001 — The Inugami Curse
 
@@ -34,9 +34,9 @@ The novel is a family-inheritance detective mystery with a curse structure, not 
 
 The study separately distinguishes the novel's fictional Kikuno curse from actual Japanese inugami possession folklore. No KARUPPI canon changes were made.
 
-## Remaining sequence
+## Programme completion
 
-**Progress:** 4 of 5 complete. INTL-005 is next.
+**Progress:** 5 of 5 complete. All selected international books have full studies and separate conditional KARUPPI transfer notes.
 
 ### INTL-002 — Folk
 **Zoe Gilbert. Completed.** Full study archived in `02_BOOK_STUDIES/INTL_002_Folk.md`, with conditional transfer note in `07_KARUPPI_APPLICATION/INTL_002_FOLK_TRANSFER_NOTE.md`.
@@ -54,14 +54,15 @@ The supplied English edition of *I Benandanti* was reviewed through its four cha
 The supplied 235-page 1982 University of Pennsylvania Press edition was reviewed through the introduction, five chapters, conclusion, appendix, bibliography and feature index. The study maps Hufford's experience-centered method, the Cultural Source and Experiential Source hypotheses, Newfoundland accounts, questionnaire design, the four primary features of the Old Hag, secondary experiential features, his critique of sleep-related explanations, and cross-cultural examples involving hauntings, witch-riding, vampires, Inuit augumangia / ukomiarik and Philippine aswang. It distinguishes experience from cultural model and causal explanation. The author's 15-percent prevalence estimate is qualified as a 1982 finding, not a current statistic. No KARUPPI canon changes were made.
 
 ### INTL-005 — The Ghost Bride
-**Yangsze Choo.** Study how supernatural belief affects family decisions, marriage, class and personal agency. Treat the work's invented afterlife and plot as fiction, not as an ethnographic record.
+**Yangsze Choo. Completed.** Full study archived in `02_BOOK_STUDIES/INTL_005_The_Ghost_Bride.md`, with conditional transfer note in `07_KARUPPI_APPLICATION/INTL_005_THE_GHOST_BRIDE_TRANSFER_NOTE.md`.
 
-## Completion gate before film research
+The supplied 372-page English digital text was reviewed across all 40 chapters in four parts, plus author notes and copyright material. The study maps Li Lan's journey from the Malacca 1893 ghost-marriage proposal through the Afterworld and Plains of the Dead and back to Malacca. It reconstructs the Lim Tian Ching death mystery separately from the underworld conspiracy, tracks the clue objects and character network, and records the afterlife's rules and costs. The author's notes are carefully separated from fiction: she explicitly identifies the Plains of the Dead as her invention and Er Lang's dragon form as an adaptation. The copyright page identifies the work as fiction. No KARUPPI canon changes were made.
 
-After INTL-005:
-1. Compare the five books across their different research functions.
-2. Extract only the techniques relevant to the actual KARUPPI Master Story Bible.
-3. Identify any gaps that still require region-specific research.
-4. Begin the separate **20-film international research programme**, using a scene-level study method rather than a recommendation-only list.
+## Next phase: five-book comparative synthesis
+
+1. Compare all five books across their distinct research functions: mystery architecture, community folklore, historical belief and evidence mediation, experience-centered testimony, and ritual / social systems.
+2. Extract only techniques that remain relevant when tested against the actual KARUPPI Master Story Bible.
+3. Identify research gaps that still require region-specific Tamil folklore and rural social-history sources.
+4. Then begin the separate **20-film international research programme**, using scene-level study rather than a recommendation-only list.
 
 **Rule:** The aim is not to accumulate references. It is to build a reliable research model for a Tamil folklore-based mystery thriller.
