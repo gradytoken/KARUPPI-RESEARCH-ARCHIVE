@@ -1,4 +1,4 @@
-# ISR-009 — The Inugami Curse
+# INTL-001 — The Inugami Curse
 
 **Author:** Seishi Yokomizo (1902–1981)  
 **Japanese title:** *Inugamike no Ichizoku*  
