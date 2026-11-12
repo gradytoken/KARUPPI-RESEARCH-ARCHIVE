@@ -57,10 +57,15 @@ Pair numbering records the actual study sequence, not a mechanical pairing of ad
 | 01 | *Rashomon* (1950) + *The Vanishing* (1988) | Completed | 03_FILM_STUDIES/PAIR_01_RASHOMON_THE_VANISHING.md |
 | 02 | *Cure* (1997) + *Noroi: The Curse* (2005) | Completed | 03_FILM_STUDIES/PAIR_02_CURE_NOROI.md |
 | 03 | *The White Reindeer* (1952) + *Ugetsu* (1953) | Completed | 03_FILM_STUDIES/PAIR_03_WHITE_REINDEER_UGETSU.md |
+| 04 | *The Night of the Hunter* (1955) + *The Wicker Man* (1973) | Completed | 03_FILM_STUDIES/PAIR_04_NIGHT_OF_THE_HUNTER_WICKER_MAN.md |
 
 Pair 03 follows the titles explicitly placed at positions 3 and 4 in the supplied historical-core list, while Pair 02 remains the separately selected *Cure* / *Noroi* comparison.
 
-## 5. Research method
+## 5. Current next pair
+
+Pair 05 follows the next two titles in the user's supplied core order: *The Innocents* (1961) + *Rosemary's Baby* (1968).
+
+## 6. Research method
 
 Each pair should include, where evidence permits:
 
@@ -76,12 +81,12 @@ Each pair should include, where evidence permits:
 - Transferable filmmaking mechanisms separated from culturally specific beliefs, symbols and practices.
 - Failure modes, limitations, unresolved questions and a pair verdict.
 
-## 6. Evidence integrity
+## 7. Evidence integrity
 
 Use the labels SOURCE, ANALYSIS, AUDIENCE PULSE, CULTURAL BOUNDARY, TRANSFERABLE MECHANISM, and OPEN / NEEDS VERIFICATION.
 
 Do not claim a first-person frame-by-frame viewing if the research is source-led. Do not convert approximate scene windows into exact timecodes. If the edition or runtime differs, record the difference. Folklore claims require independent cultural / historical sources and must not be inferred from a fictional film alone.
 
-## 7. Canon boundary
+## 8. Canon boundary
 
 All film studies are research only. Do not create story explanations, import source-film mythology into KARUPPI, alter any character or event, or make plot proposals unless the user explicitly changes the scope.
