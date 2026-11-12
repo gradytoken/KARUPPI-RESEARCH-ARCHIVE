@@ -13,7 +13,7 @@ The five titles deliberately cover different research functions. They are not si
 |---|---|---|---|---|
 | INTL-001 | *The Inugami Curse* | Seishi Yokomizo; postwar Japan | Family mystery, identity, clue architecture, inheritance, community economics | **Completed** |
 | INTL-002 | *Folk* | Zoe Gilbert; fictional British island | Community folklore, oral memory, belief across generations | **Completed** |
-| INTL-003 | *The Night Battles* | Carlo Ginzburg; northern Italy, 16th–17th centuries | Historical microhistory, folk belief, interrogation and evidence mediation | Planned |
+| INTL-003 | *The Night Battles* | Carlo Ginzburg; northern Italy, 16th–17th centuries | Historical microhistory, folk belief, interrogation and evidence mediation | **Completed** |
 | INTL-004 | *The Terror That Comes in the Night* | David J. Hufford; Newfoundland | Experience-centred folklore, witness accounts, competing explanations | Planned |
 | INTL-005 | *The Ghost Bride* | Yangsze Choo; colonial Malaya, 1890s | Ritual belief, family power, social consequences and supernatural mystery | Planned |
 
@@ -36,7 +36,7 @@ The study separately distinguishes the novel's fictional Kikuno curse from actua
 
 ## Remaining sequence
 
-**Progress:** 2 of 5 complete. INTL-003 is next.
+**Progress:** 3 of 5 complete. INTL-004 is next.
 
 ### INTL-002 — Folk
 **Zoe Gilbert. Completed.** Full study archived in `02_BOOK_STUDIES/INTL_002_Folk.md`, with conditional transfer note in `07_KARUPPI_APPLICATION/INTL_002_FOLK_TRANSFER_NOTE.md`.
@@ -44,7 +44,9 @@ The study separately distinguishes the novel's fictional Kikuno curse from actua
 The supplied 155-page 2018 Bloomsbury electronic edition was studied across all 15 stories. The study maps the Neverness geography, recurring characters, shared customs, social memory, limited witness knowledge, sensory motifs, seasonal rhythm and the circular relationship between Prick Song and Tether. The copyright page and acknowledgements were checked. Eight stories are identified in the book's end matter as having appeared previously in slightly different forms. The source is treated as fiction, not ethnography. No KARUPPI canon changes were made.
 
 ### INTL-003 — The Night Battles
-**Carlo Ginzburg.** Study how historical belief is reconstructed through testimony and institutional records, and how interrogators' categories can reshape the evidence they preserve. Keep documentary claims separate from inference.
+**Carlo Ginzburg. Completed.** Full study archived in `02_BOOK_STUDIES/INTL_003_The_Night_Battles.md`, with conditional transfer note in `07_KARUPPI_APPLICATION/INTL_003_THE_NIGHT_BATTLES_TRANSFER_NOTE.md`.
+
+The supplied English edition of *I Benandanti* was reviewed through its four chapters, prefaces, translators' note, appendix, notes and index. The study follows the benandanti from early accounts of harvest-protecting night battles and journeys with the dead through later testimony increasingly entangled with demonological sabbat categories. It distinguishes reported experience, hearsay, interrogation, notarial mediation and historical inference. It also records Ginzburg's explicit qualification that the sources do not establish that every reported night gathering physically occurred. No KARUPPI canon changes were made.
 
 ### INTL-004 — The Terror That Comes in the Night
 **David J. Hufford.** Study reported nocturnal experiences, witness description, recurring sensory patterns and competing explanatory frameworks. Do not turn reported experiences into proof of supernatural entities.
