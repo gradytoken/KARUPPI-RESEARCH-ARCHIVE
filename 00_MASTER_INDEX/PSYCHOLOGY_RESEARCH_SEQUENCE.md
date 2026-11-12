@@ -52,7 +52,7 @@ No KARUPPI canon changes were made.
 
 ## Relationship to the final two-book extension
 
-The psychology supplement is closed, and the final two-book extension is complete. CMP-001, the comparative synthesis across the five international books, two psychology books and two final additions, is archived at `06_COMPARATIVE_ANALYSIS/NINE_BOOK_COMPARATIVE_SYNTHESIS.md`.CMP-001, the comparative synthesis across the five international books, two psychology books and two final additions, is archived at `06_COMPARATIVE_ANALYSIS/NINE_BOOK_COMPARATIVE_SYNTHESIS.md`. The wider CMP-002 combined synthesis integrates those nine references with six studied Indra Soundar Rajan works and is archived at `06_COMPARATIVE_ANALYSIS/COMBINED_BOOK_SYNTHESIS_INDRA_AND_INTERNATIONAL.md`. It compares the sources across eight dimensions and preserves the distinction between empirical psychology, memoir, fiction, historical evidence and philosophical argument.
+The psychology supplement and final two-book extension are complete. CMP-001, the nine-book comparative synthesis, is archived at `06_COMPARATIVE_ANALYSIS/NINE_BOOK_COMPARATIVE_SYNTHESIS.md`. CMP-002 integrates those nine international references with six studied Indra Soundar Rajan works and is archived at `06_COMPARATIVE_ANALYSIS/COMBINED_BOOK_SYNTHESIS_INDRA_AND_INTERNATIONAL.md`. The combined document preserves the distinctions among empirical psychology, memoir, fiction, historical evidence, and philosophical argument.
 
 The next planned research phase is the separate 20-film international programme, using scene-level analysis. The synthesis records a conflict between the available Master Story Bible file and the repository's removed-Story-B boundary. Reconcile the source document before story-specific transfer.
 
