@@ -168,7 +168,7 @@ Key ending distinctions:
 - The closing scene identifies the headless body as teacher Varadarajan, Shanmugam's father, who died doing a good deed; the ending strongly links him to the recurring helper / protector without collapsing every supernatural question into a simple identity claim.
 - The lovers' relationship and the hidden valuables receive closing resolution.
 
-**Status:** page audit complete. Remaining work is synthesis, chronology reconciliation, character graph and final evidence-versus-belief map. Research only; no story canon changes or direct plot transfer are authorised.
+**Status:** page audit and consolidated final synthesis complete. The final synthesis, chronology reconstruction, character / relationship map, mystery and clue resolutions, object ledger, and evidence-versus-belief map are archived at `02_BOOK_STUDIES/ISR_002_VITTU_VIDU_KARUPPA_FINAL_SYNTHESIS.md`. Remaining limits are explicitly listed in that document and concern specific identity / provenance checks, not further page-audit work. Research only; no story canon changes or direct plot transfer are authorised.
 
 
 ## New study opened — ISR-002 television adaptation (2026-11-12)
