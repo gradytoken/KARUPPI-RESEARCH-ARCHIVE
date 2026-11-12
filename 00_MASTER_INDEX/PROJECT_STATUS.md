@@ -41,7 +41,7 @@ No replacement mythology has been approved. Earlier assistant-proposed alternati
 
 ## Current phase objective
 
-Build a rigorous research library by studying one book or film at a time. The archive currently includes studies / notes for *Vittu Vidu Karuppa!*, *Ragasiyamaaga Oru Ragasiyam*, *Adhu Mattum Ragasiyam*, *Aranmanai Ragasiyam 1*, *Kallukkul Pugundha Uyir*, and *Abaya Vanam*; *Thangakkaadu* remains blocked, and *Rosemary's Baby* is represented by selected sensory observations. The *Adhu Mattum Ragasiyam*, *Aranmanai Ragasiyam 1*, *Kallukkul Pugundha Uyir* and *Abaya Vanam* studies have separate conditional craft-transfer notes, not story decisions.
+Build a rigorous research library by studying one book or film at a time. The archive currently includes studies / notes for *Vittu Vidu Karuppa!*, *Ragasiyamaaga Oru Ragasiyam*, *Adhu Mattum Ragasiyam*, *Aranmanai Ragasiyam 1*, *Kallukkul Pugundha Uyir*, *Abaya Vanam* and *Chidambara Ragasiyam*; *Thangakkaadu* remains blocked, and *Rosemary's Baby* is represented by selected sensory observations. The *Adhu Mattum Ragasiyam*, *Aranmanai Ragasiyam 1*, *Kallukkul Pugundha Uyir*, *Abaya Vanam* and *Chidambara Ragasiyam* studies have separate conditional craft-transfer notes, not story decisions.
 
 Current craft questions include village life and collective behaviour, rules and consequences, mystery information flow, geography as a suspense mechanism, sensory motifs, conflicting belief systems, clue progression, the coexistence of human deception with uncanny evidence, and the relationship between forest ecology, local belief, and practical knowledge.
 
@@ -66,4 +66,4 @@ Do not start a screenplay, rebuild the mythology, or produce new plot explanatio
 
 ## Immediate next step
 
-ISR-007 (*Abaya Vanam*) is now archived as a first-pass full-arc / chapter-structure study with a conditional transfer note. The next requested source is *Chidambara Ragasiyam*, pending the contents page so relevant stories can be selected. Continue in research-only mode. Do not begin story development without the latest Master Story Bible and explicit user authorisation.
+ISR-008 (*Chidambara Ragasiyam*) is archived as a first-pass full-structure study of 90 numbered sections, with targeted historical verification and a conditional transfer note. It is a temple-reference compilation, not a village-folklore anthology. The next phase should not add more general temple novels by default. First obtain / audit the latest Master Story Bible to establish the fictional village's exact district and ecological-cultural region. Then close only the research gaps that the story bible actually exposes, prioritising region-specific folklore, rural social history around 1990, local ecology and investigative realism. Continue in research-only mode. Do not begin story development without explicit user authorisation.
