@@ -127,6 +127,7 @@ All film studies are research only. Do not create story explanations, import sou
 - *The Birds* (1963) was considered but not selected for this two-film extension.
 
 ### Completion note
+The Masters shelf is now complete for the scope selected here: six films across three comparative dossiers. A cross-director synthesis is archived at [DIRECTOR_MASTERS_SYNTHESIS.md](DIRECTOR_MASTERS_SYNTHESIS.md). The unselected candidates are not rejected as lesser works. They remain possible future studies only if a distinct craft question justifies them. All dossiers are source-led, record edition/runtime discrepancies, avoid unverified exact timecodes, and preserve the research-only boundary.
 The Masters shelf is now complete for the scope selected here: six films across three comparative dossiers. The unselected candidates are not rejected as lesser works. They remain possible future studies only if a distinct craft question justifies them. All dossiers are source-led, record edition/runtime discrepancies, avoid unverified exact timecodes, and preserve the research-only boundary.
 
 ## 10. Research method
