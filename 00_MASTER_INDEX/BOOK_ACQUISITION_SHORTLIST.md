@@ -1,16 +1,16 @@
 # Book Acquisition Shortlist — Indra Soundar Rajan
 
-**Status:** Updated after completion of *Aranmanai Ragasiyam 1* (ISR-005) and *Kallukkul Pugundha Uyir* (ISR-006).
+**Status:** Updated after completion of *Abaya Vanam* (ISR-007), following ISR-005 and ISR-006.
 
 ## Completed acquisitions
 
 - **Aranmanai Ragasiyam 1** — supplied 74-page scan studied. Its actual story centres on Parani, Banarasidas, the Naga Ratnam, Naga Karadu, the coral Devi / Sri Chakra secret, and an ambiguous coma ending. This does **not** match the simplified haunted-Western-Ghats-mansion description previously found in retailer copy. The scan's imprint differs from the external listing; edition match remains unresolved.
 - **Kallukkul Pugundha Uyir** — supplied 74-page PDF studied across all 11 chapters. The story braids Naganatha Pillai's paralysis, Nandana's threat and police protection, Vidaithangi's agrarian Nandi tradition, a Pallava-era sculptor / tapas-yogi account, and the rare animation of a Nandi statue. Independent references support the broad context of Nandi facing a Shiva shrine and Shilpa-related architecture / sculpture texts. The novel's 32-lakshana Nandi, damaged mark and 108-year animation cycle remain fictional / unverified claims.
+- **Abaya Vanam** — supplied 320-page PDF, 38 numbered chapters. First-pass full-arc and chapter-structure study completed using rendered page images because the Tamil text layer is corrupted. The book's main subject is the forest as a spiritual, ecological, botanical, ritual, and practical knowledge system. Siddha / Jeeva Samadhi / nakshatra-tree claims are separated from independent context. The contemporary frame's final Siddha-physician encounter remains ambiguous. Publication year / edition not established.
 
 ## Next requested source
 
-1. **Abaya Vanam** — possible Siddhar / Jeeva Samadhi belief-system research. Treat the fictional presentation as a lead, not cultural proof.
-2. **Chidambara Ragasiyam** — story collection. Send the contents page first so we can select relevant stories rather than studying 541 pages indiscriminately.
+1. **Chidambara Ragasiyam** — story collection. Await the contents page so relevant stories can be selected rather than studying 541 pages indiscriminately.
 
 ## Page-3 screenshot titles to investigate, not yet recommend
 
