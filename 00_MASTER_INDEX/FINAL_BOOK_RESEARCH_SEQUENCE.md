@@ -6,8 +6,8 @@
 
 | Order | ID | Book | Author / supplied edition | Research lens | Status |
 |---|---|---|---|---|---|
-| 1 | FINAL-001 | *The Stranger* | Albert Camus; Matthew Ward translation; supplied Vintage International edition (1989) | Existential alienation, emotional detachment, social judgment, absurdity and the construction of guilt | **Source uploaded; study next** |
-| 2 | FINAL-002 | *Moral Tribes: Emotion, Reason, and the Gap Between Us and Them* | Joshua D. Greene; supplied Atlantic Books edition (2014) | Moral psychology, dual-process judgment, cooperation, intergroup conflict and the search for common currency | **Source uploaded; queued** |
+| 1 | FINAL-001 | *The Stranger* | Albert Camus; Matthew Ward translation; supplied Vintage International edition (1989) | Existential alienation, emotional detachment, social judgment, absurdity and the construction of guilt | **Completed: full study and conditional transfer note archived** |
+| 2 | FINAL-002 | *Moral Tribes: Emotion, Reason, and the Gap Between Us and Them* | Joshua D. Greene; supplied Atlantic Books edition (2014) | Moral psychology, dual-process judgment, cooperation, intergroup conflict and the search for common currency | **Source uploaded; study next** |
 
 ## FINAL-001 — The Stranger
 
@@ -17,7 +17,7 @@
 **Study path:** 02_BOOK_STUDIES/FINAL_001_The_Stranger.md  
 **Conditional transfer note:** 07_KARUPPI_APPLICATION/FINAL_001_THE_STRANGER_TRANSFER_NOTE.md
 
-**Status:** Not yet studied. Do not treat the novel's plot, themes or interpretation as completed research until its individual study is archived.
+**Status:** Complete. The full study is archived at 02_BOOK_STUDIES/FINAL_001_The_Stranger.md and the conditional KARUPPI application is archived at 07_KARUPPI_APPLICATION/FINAL_001_THE_STRANGER_TRANSFER_NOTE.md. The source study includes all eleven chapters, translator's note and ending. The transfer note is research only and makes no canon changes.
 
 ## FINAL-002 — Moral Tribes
 
@@ -27,7 +27,7 @@
 **Study path:** 02_BOOK_STUDIES/FINAL_002_Moral_Tribes.md  
 **Conditional transfer note:** 07_KARUPPI_APPLICATION/FINAL_002_MORAL_TRIBES_TRANSFER_NOTE.md
 
-**Status:** Not yet studied. This title follows FINAL-001.
+**Status:** Next. Study this title individually after FINAL-001, preserving the one-book-at-a-time rule.
 
 ## Completion gate: close book research
 
