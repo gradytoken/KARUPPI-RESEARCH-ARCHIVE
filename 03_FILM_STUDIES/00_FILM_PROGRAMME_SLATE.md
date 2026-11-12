@@ -146,4 +146,9 @@ The Masters shelf is now complete for the scope selected here: six films across 
 
 **Cross-corpus synthesis:** `03_FILM_STUDIES/MODERN_AND_SERIAL_SCREEN_SYNTHESIS.md` compares the two modern films and all three series. The five works are research references only.
 
-## 11. Research method
+## 11. Modern and serial synthesis
+
+The modern film extension and the three selected series are synthesised in `03_FILM_STUDIES/MODERN_AND_SERIAL_SCREEN_SYNTHESIS.md`. The synthesis compares mystery engines, community design, spatial constraints, ritual, environmental storytelling, audience knowledge, pacing and failure modes. Its selection verdict identifies *The Third Day* as the closest short-run folk-horror structural reference, *Midnight Mass* as the strongest community / institution reference, and *Katla* as the strongest environmental mystery reference.
+
+The historical core, reserve shelf, director-masters shelf, modern film extension and three-series reference shelf are complete for the current programme scope. All screen research remains research-only.
+
