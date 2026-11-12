@@ -169,3 +169,16 @@ Key findings carried into the register:
 - Pichchamma withholds information connected with Rajathi's honour; the disclosure and its implications remain open.
 
 The new file corrects overconfident interpretations in the conversation summaries and labels uncertain names / relationships. Continue with **PDF pp. 198–226**. No KARUPPI canon changes or direct plot transfer are authorised.
+
+
+## 13. Resumed page audit — checkpoint 002
+
+A consecutive page-range audit of **PDF pp. 198–255** was completed on 2026-11-12, following checkpoint 001 at p. 197. The cumulative progress marker is now **255 / 298 (85.6%)**. The supplied Tamil text layer contains character / spacing corruption, so key scenes and object discoveries were checked against rendered page images.
+
+Detailed dossier: [`ISR_002_VITTU_VIDU_KARUPPA_PAGE_AUDIT_CHECKPOINT_002.md`](ISR_002_VITTU_VIDU_KARUPPA_PAGE_AUDIT_CHECKPOINT_002.md).
+
+Major findings: Amaravathi warns against opposing Karuppu; Rina refuses to stop investigating; Rina examines a written valuables record in the old property; Rajendran is found critically wounded beside a large aruval; Ratna thanks Aravind for donating blood to her brother Rajendran; a samadhi associated with Pullaanguzhal Pechi is found disturbed; a brass pot associated with Ratna's grandmother's gold / diamond jewellery is uncovered, but the jewellery is missing; Rina develops an unproven hypothesis involving a Nayakkar-family connection named Kasi; and Chapter 30 begins with the discovery of a body in a distinctive safari suit.
+
+The dossier deliberately separates Rina from Ratna, keeps Aravind's stranger account at the level of testimony, leaves Kasi as a lead rather than a confirmed culprit, and does not equate the recurring moustached stranger with a proven supernatural entity.
+
+**Next range:** PDF pp. 256–284. Research only; no KARUPPI canon changes.
