@@ -144,3 +144,21 @@ The resumed *Vittu Vidu Karuppa!* audit now reaches **PDF p. 284 of 298 (95.3%)*
 Major new developments: Rina identifies Kasi as Parandama Nayakkar's son and proposes that he is the person acting as / under Karuppu's identity, while explicitly leaving open whether he believes himself to be Karuppu or is impersonating him. Rina also reveals that she arranged Lakshmi and teacher's son Shanmugam's garland exchange / marriage at Karuppu's shrine as a deliberate test of the belief that Karuppu punishes such love. Aravind's account of a young-looking, sandalwood-scented stranger creates an age discrepancy with Kasi. The safari-suit body / apparent resurrection sequence remains unresolved.
 
 **Final audit range:** PDF pp. 285–298. Continue visual verification of plot-critical details. Research only; no story canon changes or direct plot transfer are authorised.
+
+
+## ISR-002 source audit completed — 2026-11-12
+
+The *Vittu Vidu Karuppa!* source audit is **complete: 298 / 298 PDF pages reviewed (100%)**. The final range pp. 285–298 was read and selected ending pages visually verified.
+
+Final dossier: `02_BOOK_STUDIES/ISR_002_VITTU_VIDU_KARUPPA_PAGE_AUDIT_CHECKPOINT_004_FINAL.md`. Main study: `02_BOOK_STUDIES/ISR_002_Vittu_Vidu_Karuppa.md`.
+
+Key ending distinctions:
+- Sivakami admits to staging the Pechi Paati ghost through disguise / a hidden room.
+- The safari-suit victim is identified as a CBI officer killed by Kasi and used as bait.
+- Kasi, son of Parandama Nayakkar, admits to wearing the Karuppu disguise and using fear as an instrument of revenge / punishment.
+- The ending distinguishes Kasi's impersonation from the genuine Karuppu intervention reported by witnesses.
+- Aravind recognises the recurring mysterious helper as the person who had previously treated his injury.
+- The closing scene identifies the headless body as teacher Varadarajan, Shanmugam's father, who died doing a good deed; the ending strongly links him to the recurring helper / protector without collapsing every supernatural question into a simple identity claim.
+- The lovers' relationship and the hidden valuables receive closing resolution.
+
+**Status:** page audit complete. Remaining work is synthesis, chronology reconciliation, character graph and final evidence-versus-belief map. Research only; no KARUPPI canon changes or direct plot transfer are authorised.
