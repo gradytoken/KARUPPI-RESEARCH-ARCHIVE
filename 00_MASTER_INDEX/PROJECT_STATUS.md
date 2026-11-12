@@ -124,3 +124,14 @@ Detailed checkpoint: `02_BOOK_STUDIES/ISR_002_VITTU_VIDU_KARUPPA_PAGE_AUDIT_CHEC
 The supplied PDF's Tamil text layer has character / spacing irregularities. Use extracted text as navigation support, visually verify plot-critical or ambiguous details, and explicitly distinguish source observations, character reports, interpretations and unresolved causes. Selected visual checks in this checkpoint corrected important ambiguities: p. 161 shows a ₹20,000 sale instrument in a transaction Parandama appears to understand as borrowing; p. 164 identifies the ring on Kattaiyan as Rajathi's engagement ring, with the transfer unresolved; p. 191 explicitly labels Rajathi, Parandama and Anjappam as suicide victims. Do not describe the last event as murder without later source evidence.
 
 **Next source-audit range:** PDF pp. 198–226. Continue in research-only mode. No KARUPPI story canon changes, mythology transfer or screenplay development is authorised by this book study.
+
+
+## Active source audit update — ISR-002 checkpoint 002 (2026-11-12)
+
+The resumed *Vittu Vidu Karuppa!* audit now reaches **PDF p. 255 of 298 (85.6%)**, following checkpoint 001 at p. 197. The consecutive range pp. 198–255 was reviewed. Detailed record: `02_BOOK_STUDIES/ISR_002_VITTU_VIDU_KARUPPA_PAGE_AUDIT_CHECKPOINT_002.md`.
+
+High-impact findings recorded: Rina refuses Amaravathi's warning to stop investigating; a written valuables record is examined at the old property; Rajendran is found critically wounded beside a large aruval; Ratna thanks Aravind for donating blood to her brother Rajendran; a samadhi associated with Pullaanguzhal Pechi is disturbed and contains vessels / human remains; a brass pot is associated with Ratna's grandmother's jewellery, but the ornaments are missing; Rina proposes Kasi as a lead in a possible Nayakkar-family revenge operation; and Chapter 30 opens with a body in a distinctive safari suit.
+
+Names and evidence chains remain deliberately separate: Ratna is not Rina; Aravind's stranger account is testimony rather than verified supernatural fact; Kasi is not a confirmed culprit; and the safari-suit body's identity is open.
+
+**Next audit range:** PDF pp. 256–284. The Tamil text layer remains imperfect, so continue visual checks on plot-critical material. No story canon changes or direct plot transfer are authorised.
