@@ -693,7 +693,7 @@ The fictional village is a repository of local memory. Its physical disappearanc
 
 **ANALYSIS:** The dam is a strong image because it makes modern infrastructure part of the mystery's geography. A place may be absent as an inhabited settlement but present as a name, document, memory, or story.
 
-**CULTURAL BOUNDARY:** The village, the name Kagutaba, the ritual described in the documentary, the archival scroll, and the demon narrative are fictional elements created for the film. Do not cite them as actual Japanese folklore, ethnology, or local history.
+**CULTURAL BOUNDARY:** The specific village history, Kagutaba narrative, ritual sequence, and archival documents function as Shiraishi's constructed film-world mythology. A critical discussion of Shiraishi describes his mockumentary cycle as building an original mythology, while also drawing on stylised Japanese religious / folklore textures. This does not mean that every motif is invented from nothing, and it does not authorise treating the specific Kagutaba / Shimokage account as documented Japanese folklore, ethnology, or local history. Any proposed real-world parallel requires independent source work.
 
 ### 13.6 The documentary viewer as inheritor
 
@@ -1042,6 +1042,8 @@ Treating a fictional Japanese village ritual as a real Japanese belief system is
 - Brian Eggert, “Cure (1997),” *Deep Focus Review*, 30 June 2021: https://www.deepfocusreview.com/definitives/cure/
 - Kitty Richardson, “Kōji Shiraishi’s Noroi is a found footage horror like no other,” *Little White Lies*, 31 October 2021: https://www.lwlies.com/in-praise-of/noroi-the-curse-koji-shiraishi-ending
 - Connor McMorran, St Andrews thesis on Japanese found-footage horror, including *Noroi*'s patchwork documentary construction. Abstract / repository record consulted; full PDF not used for page-level claims.
+- Niina Doherty, “God Told Me to Do It: The Cosmic Horror of Koji Shiraishi,” *Horror News*, 25 March 2021. Discusses Shiraishi's original mythology across his mockumentary films: https://horrornews.net/164945/god-told-me-to-do-it-the-cosmic-horror-of-koji-shiraishi/
+- Meagan Navarro, “Does Shudder’s ‘Noroi: The Curse’ Earn Its Reputation as the Scariest Found Footage Horror Film?”, *Bloody Disgusting*, 25 March 2020. Discusses the faux-documentary structure, delayed convergence, and divided reception of the slow build: https://bloody-disgusting.com/editorials/3609693/shudders-noroi-curse-earn-reputation-scariest-found-footage-horror/
 
 ### Transcript / navigation sources
 - *Cure* English transcript consulted for dialogue and scene ordering. It is not treated as a frame-accurate timing source.
