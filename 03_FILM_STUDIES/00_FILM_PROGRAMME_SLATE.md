@@ -67,7 +67,7 @@ Pair 03 follows the titles explicitly placed at positions 3 and 4 in the supplie
 
 ## 5. Current next pair
 
-Pair 06 is complete: *Onibaba* (1964) + *Kwaidan* (1964). Pair 07 is complete: *Viy* (1967) + *Nang Nak* (1999). Pair 08 is complete: *The Exorcist* (1973) + *Manichitrathazhu* (1993). Pair 09 is complete: *Don't Look Now* (1973) + *Picnic at Hanging Rock* (1975). Pair 10 is complete: *The Shining* (1980) + *The Devil's Backbone* (2001). Pair 11 is next and will be determined from the remaining unpaired titles in the confirmed core, without repeating *Cure* / *Noroi* from Pair 02. *Cure* (1997) and *Noroi: The Curse* (2005) were already studied together in Pair 02, so they are not repeated.
+Pair 06 is complete: *Onibaba* (1964) + *Kwaidan* (1964). Pair 07 is complete: *Viy* (1967) + *Nang Nak* (1999). Pair 08 is complete: *The Exorcist* (1973) + *Manichitrathazhu* (1993). Pair 09 is complete: *Don't Look Now* (1973) + *Picnic at Hanging Rock* (1975). Pair 10 is complete: *The Shining* (1980) + *The Devil's Backbone* (2001). The 20-film historical core is now covered across ten completed pair studies. Pair 02 covers *Cure* and *Noroi*, so Pair 10 completes the core without repeating them. The next phase requires a separate user selection from the reserve shelf or modern extension. *Cure* (1997) and *Noroi: The Curse* (2005) were already studied together in Pair 02, so they are not repeated.
 
 ## 6. Research method
 
