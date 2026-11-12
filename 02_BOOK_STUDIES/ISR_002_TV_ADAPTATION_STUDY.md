@@ -1,7 +1,7 @@
 # ISR-002-TVA — *Marmadesam: Vidaathu Karuppu* (Television Adaptation)
-## Research dossier v0.1 — source discovery and adaptation-context study
+## Research dossier v0.2 — creator context and ANDRU / INDRU structure
 
-**Status:** Source discovery and creator-context research started. Episode-by-episode viewing audit has **not** yet been completed.  
+**Status:** Creator-context research documented; structural analysis recorded from the user's first-hand viewing recollection. Episode-by-episode rewatch is deliberately **out of scope** by the user's choice.  
 **Related source study:** ISR-002, *Vittu Vidu Karuppa!* (novel), source audit complete at 298 / 298 pages.  
 **Adaptation director:** Naga.  
 **Novel author / TV screenplay and dialogue:** Indra Soundar Rajan.  
@@ -72,7 +72,7 @@ Source: same 2019 Cinema Express interview.
 
 Naga explains that a weekly serial could not assume viewers would remember every plot detail. He therefore designed each episode to end with something for the audience to think about until the next instalment.
 
-This is a creator-confirmed design principle. The episode audit must test how each cliffhanger functions: new clue, threat, identity ambiguity, reversal, emotional beat or withheld explanation.
+This is a creator-confirmed design principle. The user's recollection of the ANDRU / INDRU structure provides a framework for understanding how weekly cliffhangers can advance two parallel strands. No episode-level cliffhanger placement is claimed or audited.
 
 Source: same 2019 Cinema Express interview.
 
@@ -91,23 +91,23 @@ Sources:
 
 ## 4. Viewing and evidence protocol
 
-### 4.1 What counts as an episode audit
+### 4.1 Viewing scope decision
 
-For every episode, record:
-1. Episode number as displayed by the uploader.
-2. Exact video title and URL.
-3. Runtime.
-4. Whether captions / transcript are available.
-5. Past-thread scenes and present-thread scenes, separately.
-6. New facts introduced.
-7. Character knowledge state: who knows what at episode end.
-8. New clue / object / sound / visual motif.
-9. Apparent explanation offered by characters.
-10. Alternative explanation still available to the audience.
-11. Episode-ending hook and its precise function.
-12. Whether later episodes confirm, reverse or recontextualise the clue.
+The user knows the series well from childhood viewing and has supplied a first-hand recollection of its narrative form. The user has explicitly decided not to rewatch all 82 episodes. A scene-by-scene episode audit is therefore not part of the current research scope.
 
-Never claim an episode was watched or visually audited unless the actual audiovisual content was accessible and inspected. Search snippets, reviews and episode titles are secondary metadata, not substitutes for viewing.
+The dedicated structural memo is `02_BOOK_STUDIES/ISR_002_TV_NARRATIVE_ARCHITECTURE_ANDRU_INDRU.md`.
+
+The viewer's account is recorded as:
+- Every episode is divided into two narrative movements, **ANDRU** and **INDRU**.
+- **ANDRU** covers the village's earlier history, Ooru Paati's story and Rajendran's childhood history.
+- **INDRU** follows the current-day story.
+- Both strands progress in parallel across episodes and converge in the final episode.
+
+Do not present this as independently rewatched or timecoded episode evidence. Preserve its provenance as first-hand viewer recollection.
+
+### 4.2 Episode audit protocol (archival only)
+
+The checklist below is retained only as a possible future protocol if the user ever requests a rewatch. It is inactive and does not represent pending work. No episode-level scene claims should be filled from memory or secondary summaries.
 
 ### 4.2 Evidence labels
 
@@ -124,151 +124,56 @@ The YouTube playlist is identified and linked, but the current research interfac
 
 To complete the actual scene audit, use accessible episode transcripts / captions where available, or user-provided episode notes / files / timecoded excerpts. If the user supplies an episode link and a transcript or relevant screenshots, audit the content against the source and retain the timestamp. Do not invent transcript availability.
 
-## 5. Initial episode audit register
+## 5. Narrative architecture study
 
-All entries below are intentionally **NOT YET AUDITED**. The episode count follows contemporary reporting (82). This is a blank control register, not a claim that all episodes are currently accessible.
+See the dedicated memo: `02_BOOK_STUDIES/ISR_002_TV_NARRATIVE_ARCHITECTURE_ANDRU_INDRU.md`.
 
-| Episode | Video URL / runtime | Past-thread beats | Present-thread beats | New clues / reversals | Cliffhanger function | Status |
-|---:|---|---|---|---|---|---|
-| 1 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 2 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 3 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 4 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 5 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 6 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 7 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 8 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 9 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 10 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 11 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 12 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 13 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 14 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 15 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 16 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 17 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 18 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 19 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 20 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 21 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 22 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 23 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 24 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 25 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 26 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 27 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 28 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 29 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 30 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 31 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 32 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 33 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 34 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 35 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 36 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 37 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 38 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 39 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 40 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 41 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 42 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 43 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 44 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 45 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 46 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 47 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 48 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 49 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 50 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 51 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 52 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 53 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 54 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 55 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 56 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 57 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 58 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 59 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 60 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 61 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 62 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 63 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 64 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 65 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 66 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 67 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 68 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 69 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 70 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 71 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 72 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 73 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 74 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 75 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 76 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 77 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 78 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 79 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 80 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 81 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
-| 82 | Pending | Pending | Pending | Pending | Pending | NOT YET AUDITED |
+The central structural observation is that each episode is divided into two continuing narrative movements:
+- **ANDRU:** village history, Ooru Paati and Rajendran's childhood.
+- **INDRU:** the current-day story.
 
-## 6. Questions to answer through the viewing audit
+These strands run in parallel across episodes and converge in the final episode. This creates two active story engines rather than one present-day plot interrupted by occasional explanatory flashbacks. The memo analyses reciprocal clue distribution, knowledge asymmetry and final convergence.
 
-### Mystery architecture
-1. What exact event first causes the audience to suspect Rajendran?
-2. Which scenes establish a gap between Rajendran's conscious memory and Karuppu's actions?
-3. Are clues planted fairly before the reveal, or does the ending rely on withheld information?
-4. How are the past and present threads synchronised?
-5. Which apparent supernatural events are later explained psychologically?
-6. Which details remain resistant to the psychological explanation?
+This is based on the user's first-hand viewing recollection. It is not an episode-by-episode transcript audit.
 
-### Character and performance
-7. How does Chetan differentiate Rajendran's ordinary demeanour from the Karuppu persona?
-8. What information does Reena possess at each stage, and when does she become suspicious?
-9. What is Dr Nanda's function as clinician, investigator and final interpretive guide?
-10. How do village elders, priest and witnesses embody different levels of belief?
-11. How do Raasu's childhood scenes reframe adult Rajendran?
+## 6. Structural questions documented for analysis
 
-### Cinematic / television grammar
-12. How are monochrome and colour used to distinguish timelines, memory, testimony or psychological states?
-13. How do horse sounds, sandalwood references, silence, score and recurring motifs signal the unseen?
-14. How does camera placement conceal or reveal identity?
-15. How does the serial use episode-end cliffhangers to manage weekly memory and anticipation?
-16. Which visual clues are repeated often enough to become fair-play evidence?
+1. How does ANDRU establish the village's moral, social and folkloric history?
+2. How does Ooru Paati's story connect to Rajendran's childhood?
+3. What information does ANDRU reveal that INDRU characters do not yet know?
+4. How does INDRU cause the audience to reinterpret earlier ANDRU scenes?
+5. How are the two strands kept dramatically compelling on their own?
+6. What exact connections make the two strands converge in the final episode?
+7. How does the convergence change the meaning of Rajendran's identity reveal?
+8. How does the dual structure support the psychological-versus-supernatural ambiguity?
+9. How do the creator-described weekly cliffhangers exploit this two-strand structure?
 
-### Ending and ambiguity
-17. What is the precise chain of events in the final reveal?
-18. What does Reena explicitly diagnose or explain?
-19. What does the priest's final response imply about the deity's host and recurrence?
-20. What is the final object / notebook / weapon handoff, and how does it imply continuity?
-21. Does the show resolve the human culprit while preserving the village's metaphysical belief?
-22. Is the white horse an objective event, subjective perception, symbolic image or deliberately undecidable event?
+These are architecture questions, not a request to rewatch the series. The scope is to analyse the structure already described and compare it with the completed novel study.
 
 ## 7. Adaptation comparison framework
 
-The completed novel audit must remain the control document. For each TV episode / revelation, compare only after the television evidence is recorded.
+The completed novel audit remains the control document. The television series is treated as an independent adaptation.
 
-| Dimension | Novel baseline | TV question |
+| Dimension | Novel baseline | Television structure |
 |---|---|---|
-| Central mystery | Human imposture plus distinct supernatural intervention | Does Rajendran's alternate identity replace the novel's Kasi-centred human conspiracy? |
-| Main investigator | Rina and Rajendran | How are Reena and Rajendran's roles redistributed? |
-| Past timeline | Family / village history reconstructed through testimony | How does young Raasu's viewpoint control disclosure? |
-| Ghost thread | Sivakami's Pechi Paati disguise | Is this retained, transformed or removed? |
-| Human antagonist | Kasi, son of Parandama Nayakkar | Who becomes the primary perpetrator in the series? |
-| Supernatural layer | Genuine Karuppu intervention remains | How does the series preserve ambiguity after the psychological explanation? |
-| Recurring helper | Varadarajan / sandalwood-scented helper connection | Does this survive, transform or disappear? |
-| Final moral frame | Revenge versus divine justice; Varadarajan's sacrifice | What does the host-replacement idea say about justice and continuity? |
+| Time structure | Present-day conversations mixed with family testimony, remembered history and flashbacks | Explicit ANDRU / INDRU sections within each episode |
+| Past strand | Village / family history reconstructed through narration and testimony | Ooru Paati's history and Rajendran's childhood |
+| Present strand | Rajendran and Rina's investigation | Adult Rajendran and current-day events |
+| Audience task | Reconcile reports, objects, witnesses and chronology | Track two parallel storylines and infer their eventual connection |
+| Central identity reveal | Kasi's human impersonation is distinguished from genuine Karuppu | Rajendran's identity / psychological explanation becomes the adaptation's central reveal |
+| Supernatural ambiguity | Genuine Karuppu intervention remains in the novel's ending | White horse, unexplained timing and the host / deity distinction preserve ambiguity |
+| Finale | Human conspiracy, divine intervention and Varadarajan's sacrifice resolve separate strands | ANDRU and INDRU converge in the final episode |
 
-## 8. Preliminary analytical hypotheses (not findings)
+## 8. Structural analysis: current conclusions and boundaries
 
-- **Dual-explanation architecture:** the series may let clinical psychology explain the visible mechanism while folk belief explains the community's interpretation and the residual anomalies.
-- **Identity as a mystery object:** Rajendran's body, memory, agency and social identity may be treated as separate evidence streams.
-- **Folk belief as a durable system:** the ending may distinguish the death of a human host from the persistence of a deity / collective belief.
-- **Temporal alternation as clue control:** Raasu's past thread may provide causal information while withholding the adult identity connection.
-- **Cliffhanger as memory reinforcement:** repeated hooks may compensate for weekly broadcast gaps and train viewers to carry one unresolved question forward.
+The ANDRU / INDRU architecture suggests:
+- **Two independent dramatic engines:** the past is not merely exposition; it carries its own history and suspense.
+- **Reciprocal information flow:** past events illuminate present mysteries, while present discoveries recontextualise the past.
+- **Knowledge asymmetry:** the audience can know something that present-day characters do not, while the present can pose questions whose answers are seeded in the past.
+- **Convergence as payoff:** the finale must connect the two narrative movements causally and thematically, not merely through an explanatory speech.
+- **Cliffhanger reinforcement:** the director's stated weekly-cliffhanger strategy can work in tandem with two parallel strands, although exact cliffhanger placement is not audited here.
 
-All five remain hypotheses until the episode audit is performed.
+These are analytical conclusions drawn from the recalled structure and creator interviews, not shot-by-shot findings.
 
 ## 9. Sources
 
@@ -283,8 +188,9 @@ All five remain hypotheses until the episode audit is performed.
 
 - Source discovery: COMPLETE.
 - Creator / production context: INITIAL RESEARCH COMPLETE.
-- Episode count: 82 reported; actual current playlist count and numbering need reconciliation.
-- Episode-by-episode viewing: NOT YET STARTED.
-- Ending analysis: creator-confirmed premise known; scene-level ending audit pending.
-- Novel comparison: framework established; comparative conclusions pending.
-- Next step: secure accessible episode content with captions / transcripts or user-provided timecoded viewing notes, then begin Episodes 1–5. No scene-level claims should be filled from memory or secondary summaries.
+- Episode count: 82 reported by contemporary press coverage.
+- ANDRU / INDRU architecture: DOCUMENTED from the user's first-hand viewing recollection.
+- Structural analysis: DOCUMENTED in `02_BOOK_STUDIES/ISR_002_TV_NARRATIVE_ARCHITECTURE_ANDRU_INDRU.md`.
+- Episode-by-episode rewatch: DELIBERATELY OUT OF SCOPE by user choice.
+- Novel-versus-TV structural comparison: INITIAL ANALYSIS COMPLETE; keep the two works distinct.
+- Research scope: CLOSED for this phase. Reopen only if the user independently requests further study.
