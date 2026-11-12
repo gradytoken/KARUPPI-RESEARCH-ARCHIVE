@@ -61,8 +61,12 @@ Pair numbering records the actual study sequence, not a mechanical pairing of ad
 | 05 | *The Innocents* (1961) + *Rosemary's Baby* (1968) | Completed | 03_FILM_STUDIES/PAIR_05_THE_INNOCENTS_ROSEMARYS_BABY.md |
 | 06 | *Onibaba* (1964) + *Kwaidan* (1964) | Completed | 03_FILM_STUDIES/PAIR_06_ONIBABA_KWAIDAN.md |
 | 07 | *Viy* (1967) + *Nang Nak* (1999) | Completed | 03_FILM_STUDIES/PAIR_07_VIY_NANG_NAK.md |
-| 08 | *The Exorcist* (1973) + *Manichitrathazhu* (1993) | Completed | 03_FILM_STUDIES/PAIR_08_THE_EXORCIST_MANICHITRATHAZHU.md |\n| 09 | *Don't Look Now* (1973) + *Picnic at Hanging Rock* (1975) | Completed | 03_FILM_STUDIES/PAIR_09_DONT_LOOK_NOW_PICNIC_AT_HANGING_ROCK.md |\n| 10 | *The Shining* (1980) + *The Devil's Backbone* (2001) | Completed | 03_FILM_STUDIES/PAIR_10_THE_SHINING_DEVILS_BACKBONE.md |
+| 08 | *The Exorcist* (1973) + *Manichitrathazhu* (1993) | Completed | 03_FILM_STUDIES/PAIR_08_THE_EXORCIST_MANICHITRATHAZHU.md |
+| 09 | *Don't Look Now* (1973) + *Picnic at Hanging Rock* (1975) | Completed | 03_FILM_STUDIES/PAIR_09_DONT_LOOK_NOW_PICNIC_AT_HANGING_ROCK.md |
+| 10 | *The Shining* (1980) + *The Devil's Backbone* (2001) | Completed | 03_FILM_STUDIES/PAIR_10_THE_SHINING_DEVILS_BACKBONE.md |
 | 11 | *The Haunting* (1963) + *Kuroneko* (1968) | Completed | 03_FILM_STUDIES/PAIR_11_THE_HAUNTING_KURONEKO.md |
+| 12 | *A Tale of Two Sisters* (2003) + *The Orphanage* (2007) | Completed | 03_FILM_STUDIES/PAIR_12_A_TALE_OF_TWO_SISTERS_THE_ORPHANAGE.md |
+| 13 | *Ringu* (1998) | Completed, standalone reserve study | 03_FILM_STUDIES/FILM_13_RINGU_1998.md |
 
 Pair 03 follows the titles explicitly placed at positions 3 and 4 in the supplied historical-core list, while Pair 02 remains the separately selected *Cure* / *Noroi* comparison.
 
@@ -70,7 +74,7 @@ Pair 03 follows the titles explicitly placed at positions 3 and 4 in the supplie
 
 Pair 09 is complete: *Don't Look Now* (1973) + *Picnic at Hanging Rock* (1975). Pair 10 is complete: *The Shining* (1980) + *The Devil's Backbone* (2001). The 20-film historical core is now covered across ten completed pair studies. Pair 02 covers *Cure* and *Noroi*, so they are not repeated.
 
-Pair 11 is complete: *The Haunting* (1963) + *Kuroneko* (1968), archived at `03_FILM_STUDIES/PAIR_11_THE_HAUNTING_KURONEKO.md`. Pair 12 is next: *A Tale of Two Sisters* (2003) + *The Orphanage* (2007). Pair 13 will be a standalone study of *Ringu* (1998), completing the five-title reserve shelf without forcing an artificial pairing. *Cure* (1997) and *Noroi: The Curse* (2005) were already studied together in Pair 02, so they are not repeated.
+Pair 11 is complete: *The Haunting* (1963) + *Kuroneko* (1968), archived at `03_FILM_STUDIES/PAIR_11_THE_HAUNTING_KURONEKO.md`. Pair 12 is complete: *A Tale of Two Sisters* (2003) + *The Orphanage* (2007), archived at `03_FILM_STUDIES/PAIR_12_A_TALE_OF_TWO_SISTERS_THE_ORPHANAGE.md`. The reserve shelf's final title, *Ringu* (1998), is complete as standalone study `03_FILM_STUDIES/FILM_13_RINGU_1998.md`. All five reserve films have now been covered. *Cure* (1997) and *Noroi: The Curse* (2005) were already studied together in Pair 02, so they are not repeated.
 
 ## 6. Research method
 
