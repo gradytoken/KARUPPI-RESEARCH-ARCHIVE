@@ -7,7 +7,7 @@
 | Order | ID | Book | Author / supplied edition | Research lens | Status |
 |---|---|---|---|---|---|
 | 1 | FINAL-001 | *The Stranger* | Albert Camus; Matthew Ward translation; supplied Vintage International edition (1989) | Existential alienation, emotional detachment, social judgment, absurdity and the construction of guilt | **Completed: full study and conditional transfer note archived** |
-| 2 | FINAL-002 | *Moral Tribes: Emotion, Reason, and the Gap Between Us and Them* | Joshua D. Greene; supplied Atlantic Books edition (2014) | Moral psychology, dual-process judgment, cooperation, intergroup conflict and the search for common currency | **Source uploaded; study next** |
+| 2 | FINAL-002 | *Moral Tribes: Emotion, Reason, and the Gap Between Us and Them* | Joshua D. Greene; supplied Atlantic Books edition (2014) | Moral psychology, dual-process judgment, cooperation, intergroup conflict and the search for common currency | **Completed: full main-text study and conditional transfer note archived** |
 
 ## FINAL-001 — The Stranger
 
@@ -27,16 +27,18 @@
 **Study path:** 02_BOOK_STUDIES/FINAL_002_Moral_Tribes.md  
 **Conditional transfer note:** 07_KARUPPI_APPLICATION/FINAL_002_MORAL_TRIBES_TRANSFER_NOTE.md
 
-**Status:** Next. Study this title individually after FINAL-001, preserving the one-book-at-a-time rule.
+**Status:** Complete. The full main-text study is archived at 02_BOOK_STUDIES/FINAL_002_Moral_Tribes.md and the conditional KARUPPI application is archived at 07_KARUPPI_APPLICATION/FINAL_002_MORAL_TRIBES_TRANSFER_NOTE.md. The introduction and all 12 substantive chapters were reviewed. The end-matter notes and bibliography were not audited reference by reference. No canon changes were made.
 
-## Completion gate: close book research
+## Book phase closed
 
-After FINAL-001 and FINAL-002 are complete:
+**Selected research set: 9 / 9 complete.** The five international books, two psychology books and two final books have individual source studies and conditional KARUPPI transfer notes. No additional books are planned for this research phase unless the user explicitly changes the scope.
 
-1. Close book acquisition and individual book studies for this research phase.
-2. Conduct a comparative synthesis across the five international books, two psychology books and these final two additions.
+## Next phase: comparative synthesis
+
+1. Compare all nine selected books across their distinct research functions: mystery architecture, community folklore, historical belief and evidence mediation, unusual experience testimony, ritual / social systems, moral psychology and existential meaning.
+2. Keep each source's claims, evidence, interpretation and limitations distinct. Do not flatten fiction, memoir, historical scholarship, psychology and philosophy into one evidence category.
 3. Extract transferable principles only after checking them against the latest KARUPPI Master Story Bible.
-4. Identify remaining Tamil region-specific research gaps rather than filling them with foreign analogies.
-5. Proceed to the separate 20-film international research programme using scene-level study.
+4. Identify remaining Tamil region-specific folklore and rural social-history gaps rather than filling them with foreign analogies.
+5. After the synthesis, proceed to the separate 20-film international research programme using scene-level study.
 
-No new book additions are planned after this two-book extension unless the user explicitly changes the research scope.
+**Canon boundary:** All book transfer notes remain research applications, not story decisions. No story canon or mythology changes have been made.
