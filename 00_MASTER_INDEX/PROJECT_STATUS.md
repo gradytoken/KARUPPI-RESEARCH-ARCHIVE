@@ -75,8 +75,31 @@ Do not start a screenplay, rebuild the mythology, or produce new plot explanatio
 
 PSYCH-002 completed the psychology supplement, and FINAL-001 and FINAL-002 completed the final book extension. The nine-book international research phase and its dedicated synthesis, CMP-001, are complete at `06_COMPARATIVE_ANALYSIS/NINE_BOOK_COMPARATIVE_SYNTHESIS.md`. The expanded all-book synthesis, CMP-002, is also complete at `06_COMPARATIVE_ANALYSIS/COMBINED_BOOK_SYNTHESIS_INDRA_AND_INTERNATIONAL.md`. It compares six studied Indra Soundar Rajan works with the nine international references, forming a 15-book core. The blocked *Thangakkaadu* scan and the separate *Chidambara Ragasiyam* temple compilation are not counted in that core.
 
-The 20-film historical core (1950–2009) is being studied in pairs. Pair 01 — *Rashomon* (1950) + *The Vanishing* (1988) — is complete at `03_FILM_STUDIES/PAIR_01_RASHOMON_THE_VANISHING.md`. Pair 02 — *Cure* (1997) + *Noroi: The Curse* (2005) — is complete at `03_FILM_STUDIES/PAIR_02_CURE_NOROI.md`. Compare every pair against CMP-002, keep transferable techniques separate from culturally specific material, and maintain research-only status.
+The 20-film historical core (1950–2009) is confirmed and archived in `03_FILM_STUDIES/00_FILM_PROGRAMME_SLATE.md`, preserving the user's exact order:
 
-The reserve shelf remains outside the first 20 and is not an automatic replacement list. The four previously confirmed reserves remain reserved. Five additional titles explicitly added to the expanded reserve shelf are *The Haunting* (1963), *Kuroneko* (1968), *A Tale of Two Sisters* (2003), *The Orphanage* (2007), and *Ringu* (1998). The modern comparison shelf remains *The Wailing* (2016) and *Hereditary* (2018).
+1. *Rashomon* (1950)
+2. *The Vanishing* (1988)
+3. *The White Reindeer* (1952)
+4. *Ugetsu* (1953)
+5. *The Night of the Hunter* (1955)
+6. *The Wicker Man* (1973)
+7. *The Innocents* (1961)
+8. *Rosemary's Baby* (1968)
+9. *Onibaba* (1964)
+10. *Kwaidan* (1964)
+11. *Viy* (1967)
+12. *Nang Nak* (1999)
+13. *The Exorcist* (1973)
+14. *Manichitrathazhu* (1993)
+15. *Don't Look Now* (1973)
+16. *Picnic at Hanging Rock* (1975)
+17. *The Shining* (1980)
+18. *Cure* (1997)
+19. *The Devil's Backbone* (2001)
+20. *Noroi: The Curse* (2005)
 
-Continue with Pair 03 after its two titles are selected from the historical core. The full historical-core title/order list is not currently recorded in this repository, so do not infer or invent later pairings. No story development, mythology changes, or plot explanations are authorised. Before story-specific application, reconcile the available Master Story Bible with the removed-Story-B boundary recorded above. Continue in research-only mode.
+The pair-study order is separately recorded, because Pair 02 was specifically selected as *Cure* + *Noroi* rather than inferred from adjacent titles in the core list. Pair 01 — *Rashomon* (1950) + *The Vanishing* (1988) — is complete at `03_FILM_STUDIES/PAIR_01_RASHOMON_THE_VANISHING.md`. Pair 02 — *Cure* (1997) + *Noroi: The Curse* (2005) — is complete at `03_FILM_STUDIES/PAIR_02_CURE_NOROI.md`. Pair 03 — *The White Reindeer* (1952) + *Ugetsu* (1953) — is complete at `03_FILM_STUDIES/PAIR_03_WHITE_REINDEER_UGETSU.md`.
+
+The reserve shelf remains outside the first 20: *The Haunting* (1963), *Kuroneko* (1968), *A Tale of Two Sisters* (2003), *The Orphanage* (2007), and *Ringu* (1998). The modern comparison shelf remains *The Wailing* (2016) and *Hereditary* (2018).
+
+Compare every pair against CMP-002, keep transferable techniques separate from culturally specific material, and maintain research-only status. Pair 03 specifically records the representational problem of treating Sámi people as mystical / exotic forces in dominant Finnish cinema. The film is studied as a cultural representation, not as an authoritative ethnographic account. No story development, mythology changes, or plot explanations are authorised. Before story-specific application, reconcile the available Master Story Bible with the removed-Story-B boundary recorded above. Continue in research-only mode.
