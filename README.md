@@ -25,12 +25,13 @@ A version-controlled, evidence-led research library for **KARUPPI: The Betrayed 
 - **INTL-003 — *The Night Battles***: full study of the supplied English edition of Carlo Ginzburg's *I Benandanti*. The four chapters, trial-record appendix, translators' note, prefaces and visual plates are reviewed. The study distinguishes reported belief, witness chains, inquisitorial framing, notarial mediation and historical inference, while preserving Ginzburg's explicit uncertainty about the physical occurrence of the reported night gatherings. Conditional transfer note archived; no canon changes.
 - **INTL-004 — *The Terror That Comes in the Night***: full-book study of the supplied 235-page English PDF by David J. Hufford (University of Pennsylvania Press, 1982). The experience-centered approach, Cultural Source / Experiential Source hypotheses, Newfoundland narratives, questionnaire design, Old Hag phenomenology, sleep-literature critique, cross-cultural examples, conclusion and feature index are mapped. The study distinguishes reported experience, cultural interpretation and causal explanation, and preserves the author's refusal to settle the supernatural question. Conditional transfer note archived; no canon changes.
 - **INTL-005 — *The Ghost Bride***: full-book study of the supplied 372-page English PDF by Yangsze Choo (copyright 2013; supplied HarperCollins first-edition digital text). All 40 chapters across four parts, plus the author's notes and copyright material, are mapped. The study separates the fictional ghost-marriage plot and invented afterlife from the author's explanatory cultural notes, and reconstructs the Lim Tian Ching death mystery, underworld conspiracy, character network, object clues and supernatural rules. Conditional KARUPPI transfer note archived; no canon changes.
+- **PSYCH-001 — *The Righteous Mind***: detailed study of Jonathan Haidt's 2012 book based on all 12 substantive chapters, introduction and conclusion of the supplied 458-page PDF. The dossier maps the rider / elephant model, social intuitionist reasoning, reputation and accountability, WEIRD moral-cultural variation, the six moral foundations, groupishness, collective ritual, religion as believing / doing / belonging, moral systems and moral capital. A separate KARUPPI transfer note provides character and conflict worksheets without changing canon. The end-matter bibliography and notes were not independently audited reference by reference.
 - **FILM-001 — *Rosemary's Baby***: selected sensory-grammar observations, not a complete film study.
 - **CAT-001 — Indra Soundar Rajan catalogue screen**: preliminary relevance-ranked shortlist from a 196-entry author catalogue. Two user-provided screenshots of the page-3 Most-read grid have been visually screened; some cover titles remain uncertain.
 
 ## International research programme
 
-The five-book international sequence is complete (5/5): INTL-001 (*The Inugami Curse*), INTL-002 (*Folk*), INTL-003 (*The Night Battles*), INTL-004 (*The Terror That Comes in the Night*) and INTL-005 (*The Ghost Bride*). The next step is a five-book comparative synthesis, followed by the separate 20-film international research programme.
+The five-book international sequence is complete (5/5): INTL-001 (*The Inugami Curse*), INTL-002 (*Folk*), INTL-003 (*The Night Battles*), INTL-004 (*The Terror That Comes in the Night*) and INTL-005 (*The Ghost Bride*). A separate two-book psychology supplement is now underway: PSYCH-001 (*The Righteous Mind*) is complete, while PSYCH-002 (*Man's Search for Meaning*) remains pending. After the psychology supplement, the research plan is a comparative synthesis followed by the separate 20-film international research programme.
 
 ## Archive map
 
@@ -38,7 +39,7 @@ The five-book international sequence is complete (5/5): INTL-001 (*The Inugami C
 |---|---|
 | `00_MASTER_INDEX/` | Project status, register, navigation |
 | `01_SOURCE_LIBRARY/` | Source inventory and handling rules |
-| `02_BOOK_STUDIES/` | Book-by-book studies and templates |
+| `02_BOOK_STUDIES/` | Book-by-book studies and templates, including psychology supplement |
 | `03_FILM_STUDIES/` | Film studies and templates |
 | `04_HORROR_GRAMMAR/` | Transferable craft principles and audit tools |
 | `05_FOLKLORE_AND_CULTURE/` | Folklore and cultural research protocol |
