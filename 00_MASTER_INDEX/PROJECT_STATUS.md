@@ -5,6 +5,7 @@
 **Psychology supplement:** 2 / 2 completed (PSYCH-001 *The Righteous Mind* and PSYCH-002 *Man's Search for Meaning*)
 **Final book additions:** 2 / 2 completed (FINAL-001 *The Stranger* and FINAL-002 *Moral Tribes*)  
 **Nine-book comparative synthesis:** Completed (CMP-001)  
+**Combined Indra + international book synthesis:** Completed (CMP-002, 15 core books)  
 **Status:** Research and study phase. Story redevelopment is intentionally paused.
 
 ## Active creative foundation
@@ -72,4 +73,4 @@ Do not start a screenplay, rebuild the mythology, or produce new plot explanatio
 
 ## Immediate next step
 
-PSYCH-002 completed the psychology supplement, and FINAL-001 and FINAL-002 completed the final book extension. **The selected nine-book research phase and CMP-001 comparative synthesis are complete.** The synthesis is archived at 06_COMPARATIVE_ANALYSIS/NINE_BOOK_COMPARATIVE_SYNTHESIS.md. It keeps source types distinct, compares all eight requested dimensions, and records both transferable mechanisms and cultural boundaries. The next research phase is the planned 20-film international programme using scene-level study. Before any story-specific application, reconcile the available Master Story Bible with the removed-Story-B boundary recorded above. Continue in research-only mode. Do not begin story development, modify mythology or establish plot explanations without explicit user authorisation.
+PSYCH-002 completed the psychology supplement, and FINAL-001 and FINAL-002 completed the final book extension. **The selected nine-book research phase and CMP-001 comparative synthesis are complete.** **The expanded combined book synthesis CMP-002 is also complete.** CMP-002 compares six studied Indra Soundar Rajan works with the nine international references, while keeping the blocked *Thangakkaadu* scan and the separate *Chidambara Ragasiyam* compilation outside the 15-book core. It is archived at `06_COMPARATIVE_ANALYSIS/COMBINED_BOOK_SYNTHESIS_INDRA_AND_INTERNATIONAL.md`. The synthesis is archived at 06_COMPARATIVE_ANALYSIS/NINE_BOOK_COMPARATIVE_SYNTHESIS.md. It keeps source types distinct, compares all eight requested dimensions, and records both transferable mechanisms and cultural boundaries. The next research phase is the planned 20-film international programme using scene-level study. Before any story-specific application, reconcile the available Master Story Bible with the removed-Story-B boundary recorded above. Continue in research-only mode. Do not begin story development, modify mythology or establish plot explanations without explicit user authorisation.
