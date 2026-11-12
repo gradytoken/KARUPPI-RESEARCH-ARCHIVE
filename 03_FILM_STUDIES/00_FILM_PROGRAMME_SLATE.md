@@ -152,3 +152,11 @@ The modern film extension and the three selected series are synthesised in `03_F
 
 The historical core, reserve shelf, director-masters shelf, modern film extension and three-series reference shelf are complete for the current programme scope. All screen research remains research-only.
 
+
+## 12. Full 36-reference screen synthesis
+
+The complete screen-corpus synthesis is archived at `03_FILM_STUDIES/SCREEN_36_SYNTHESIS.md`. It covers all 33 films and three series in the defined programme, identifying recurring mechanisms in mystery knowledge control, geography, community factions, sensory motifs, inherited history, bodily evidence, revelation and closure. This is a synthesis of existing dossiers, not a new frame-by-frame viewing log.
+
+## 13. Screen + book cross-corpus synthesis
+
+The cross-medium synthesis is archived at `06_COMPARATIVE_ANALYSIS/CMP_003_SCREEN_BOOK_STORY_SYNTHESIS.md`. It integrates SCREEN-36 with CMP-002 and records conditional story-development hypotheses, creative emphases and design guardrails. All story applications remain exploratory, unapproved and subject to authoritative story-source reconciliation. No canon changes are authorised.
