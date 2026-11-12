@@ -1,6 +1,6 @@
 # Indra Soundar Rajan Studies — Preliminary Comparative Matrix
 
-**Status:** Comparative craft map based on six preserved book-study entries / source syntheses (with unequal depth and coverage). This is not a ranking of the novels or a substitute for page-level re-audits.
+**Status:** Comparative craft map based on seven preserved book-study entries / source syntheses (with unequal depth and coverage). This is not a ranking of the novels or a substitute for page-level re-audits.
 
 ## Sources represented
 
@@ -10,7 +10,7 @@
 - ISR-004: *Adhu Mattum Ragasiyam* — 137-page scanned PDF reviewed using Tamil OCR as navigation aid and page-image checks; missing printed pages 2–5 and some OCR gaps.
 - ISR-005: *Aranmanai Ragasiyam 1* — 74-page scan / approximately 144 printed pages; the full supplied story arc was reviewed. Publication year not verified and the copy's Munnovel / Sulekhar Printers colophon differs from the external catalogue record.
 - ISR-006: *Kallukkul Pugundha Uyir* — 74-page PDF with a partially searchable but corrupted Tamil text layer; all 11 chapters and ending reviewed. Publication details not established by the supplied scan.
-- ISR-006: *Kallukkul Pugundha Uyir* — 74-page PDF with a partially searchable but corrupted Tamil text layer; all 11 chapters and the ending were reviewed. Publication details are not established by the supplied scan.
+- ISR-007: *Abaya Vanam* — 320-page PDF with a corrupted Tamil text layer; 38-chapter structure and full arc reviewed through rendered page images at chapter openings, endings, selected intervening passages, and the closing sequence. Publication details not established by the supplied scan.
 
 ## 1. What the current studies support
 
@@ -80,3 +80,13 @@ The novel's central mystery is an ensemble convergence: Naganatha Pillai's paral
 **Independent cultural context:** Nandi is commonly placed facing the Shiva shrine, and museum references describe associations with agricultural abundance and strength. [Smithsonian: Nandi](https://asia.si.edu/education/educator-resources/encountering-religion-in-asian-art/explore-by-object/object/nandi/). The IGNCA catalogue lists classical texts on architecture and sculpture, including *Mayamatam* and *Silpa Prakasa*. [IGNCA: Texts on Architecture & Sculpture](https://ignca.gov.in/online-digital-resources/books/kalamulasastra-series/texts-on-architecture-sculpture/). These sources support the broad cultural background only, not the book's 32-lakshana or 108-year animated-statue claims.
 
 **KARUPPI use:** ask whether an existing object or location has a real social role in village life, and whether a recurring physical detail can bridge separate strands. Do not import the walking Nandi, 32-mark rule, 108-year cycle, Pallava origin myth, or the novel's miracle mechanism.
+
+## 7. Additional comparative observation from ISR-007
+
+*Abaya Vanam* makes the forest itself the organising knowledge system. Across 38 chapters, the book links sacred geography, Siddhar traditions, terrain, water, tree life, medicinal plants, nakshatra-associated trees, ritual practice, forest movement, and a final sky / forest analogy. The contemporary character frame gives the explanations a conversational entry point, but long exposition can suspend the immediate dramatic thread.
+
+Its strongest craft contribution is the forest as a functioning system rather than scenery. Its main caution is the risk of allowing explanatory knowledge to overwhelm character agency. The ending's reported Siddha-physician encounter remains uncertain rather than establishing a definitive supernatural mechanism.
+
+**Independent cultural context:** The Central Council for Research in Siddha (Ministry of AYUSH) documents Siddha medicine as a traditional system associated with Siddhars and a field of ongoing literary, medicinal, preclinical and clinical research. [CCRS: Siddha Medicine](https://ccrs.ayush.gov.in/Indexes/Siddha_Medicine). Scholarly work examines Hindu samadhi burial / shrine traditions without validating the novel's specific initiation ritual. [McLaughlin, “Tracing the Roots of Samādhi Burial Practice” (2021)](https://doi.org/10.1093/jhs/hiab008). CPREEC documents sacred-grove conservation and a particular nakshatra-rasi planting programme with 27 plant species corresponding to 27 stars in one setting. [CPREEC: Conservation & Restoration of Sacred Groves](https://cpreec.org/conservation-restoration-of-sacred-groves/). Ethnobotanical research also documents temple trees and local medicinal plant use in Tamil Nadu. These sources establish that related practices and knowledge systems exist, not that the novel's exact Siddhar feats, forest rules, plant remedies, or 27-tree list are universal or verified.
+
+**KARUPPI use:** test whether the existing forest geography affects routes, water, visibility, access, resources, and risk. If the present story contains local restrictions, research who enforces them and what social or ecological role they have. Keep a character's belief distinct from established fact. Do not import Abaya Apartment, the book's levitation episode, Jeeva Samadhi initiation, rasamani / mercury bead, mantra, forest boundary, nakshatra-tree assignments, named remedies, Kollippavai lore, or the final physician encounter.
