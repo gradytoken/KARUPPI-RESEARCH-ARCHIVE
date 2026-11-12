@@ -43,7 +43,7 @@ The white snowfields in *The White Reindeer* can first appear open and beautiful
 
 ### Essential cultural caution
 
-*The White Reindeer* uses Sámi-coded motifs and a Lapland setting, but it is a Finnish production made by non-Sámi filmmakers. Scholarship on Sámi representation identifies the film as part of a wider history in which dominant Nordic film industries depicted Sámi people as mystical or exotic forces of nature. The film should therefore be studied both as a remarkable folk-horror work and as a representation shaped by unequal cultural power.
+*The White Reindeer* uses Sámi-coded motifs and a Lapland setting, but it is a Finnish production from outside the Sámi-led cinema tradition. The sources consulted do not establish the filmmakers' individual ethnic identities. Scholarship on Sámi representation identifies the film as part of a wider history in which dominant Nordic film industries depicted Sámi people as mystical or exotic forces of nature. The film should therefore be studied both as a remarkable folk-horror work and as a representation shaped by unequal cultural power.
 
 *Ugetsu* adapts two stories from Ueda Akinari's 1776 collection and a story by Guy de Maupassant. It uses Japanese literary and theatrical / religious motifs, but it is not a documentary description of one uniform Japanese belief system.
 
