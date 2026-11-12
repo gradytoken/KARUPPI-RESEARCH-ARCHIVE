@@ -106,7 +106,7 @@ The director-masters reference shelf is now complete for the user-selected scope
 - **PAIR 14 — Ingmar Bergman:** *The Seventh Seal* (1957) + *Hour of the Wolf* (1968), at `03_FILM_STUDIES/PAIR_14_BERGMAN_SEVENTH_SEAL_HOUR_OF_WOLF.md`. The study contrasts existential allegory and public mortality imagery with isolated psychological horror, unstable testimony and folkloric language.
 - **PAIR 15 — Alfred Hitchcock:** *Vertigo* (1958) + *Psycho* (1960), at `03_FILM_STUDIES/PAIR_15_HITCHCOCK_VERTIGO_PSYCHO.md`. The study examines obsession, identity, shifting spectator knowledge, structural rupture, montage and sound.
 
-The selected set is craft-led, not a definitive ranking of each director's whole filmography. *Persona* and *The Birds* were considered but not selected for this two-film scope. The dossiers are source-led, preserve runtime and edition discrepancies, do not claim exact timecodes without edition-matched subtitles, and remain research only.
+A cross-director synthesis is also archived at `03_FILM_STUDIES/DIRECTOR_MASTERS_SYNTHESIS.md`. The selected set is craft-led, not a definitive ranking of each director's whole filmography. *Persona* and *The Birds* were considered but not selected for this two-film scope. The dossiers are source-led, preserve runtime and edition discrepancies, do not claim exact timecodes without edition-matched subtitles, and remain research only.
 
 The reserve shelf remains outside the first 20: *The Haunting* (1963), *Kuroneko* (1968), *A Tale of Two Sisters* (2003), *The Orphanage* (2007), and *Ringu* (1998). The modern comparison shelf remains *The Wailing* (2016) and *Hereditary* (2018).
 
