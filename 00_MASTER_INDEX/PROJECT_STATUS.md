@@ -1,12 +1,19 @@
-# KARUPPI — Project Status and Canon Boundary
+# UNTITLED GUARDIAN PROJECT — Project Status and Canon Boundary
 
 **Archive baseline:** 2026-11-12  
+**Temporary project identifier:** UNTITLED GUARDIAN PROJECT  
+**Retired active titles:** KARUPPI: THE BETRAYED GUARDIAN; PEY KARUPPI  
+**Final title:** Undecided  
 **International book sequence:** 5 / 5 completed (INTL-001, INTL-002, INTL-003, INTL-004 and INTL-005)
 **Psychology supplement:** 2 / 2 completed (PSYCH-001 *The Righteous Mind* and PSYCH-002 *Man's Search for Meaning*)
 **Final book additions:** 2 / 2 completed (FINAL-001 *The Stranger* and FINAL-002 *Moral Tribes*)  
 **Nine-book comparative synthesis:** Completed (CMP-001)  
 **Combined Indra + international book synthesis:** Completed (CMP-002, 15 core books)  
 **Status:** Research and study phase. Story redevelopment is intentionally paused.
+
+## Project identity and naming decision
+
+The active working identifier is **UNTITLED GUARDIAN PROJECT**. The former titles **KARUPPI: THE BETRAYED GUARDIAN** and **PEY KARUPPI** are retired as active story titles because they suggest a direct identity or mythology association that the project has intentionally avoided establishing. Do not use either retired title as the current creative identity. This decision changes the label, not the story canon. Preserve existing approved story material and unresolved questions. No replacement mythology, premise or final title is being introduced. The GitHub repository slug, historical research IDs, source titles and legacy folder names remain unchanged for archival continuity.
 
 ## Active creative foundation
 
@@ -110,7 +117,7 @@ A cross-director synthesis is also archived at `03_FILM_STUDIES/DIRECTOR_MASTERS
 
 The reserve shelf remains outside the first 20: *The Haunting* (1963), *Kuroneko* (1968), *A Tale of Two Sisters* (2003), *The Orphanage* (2007), and *Ringu* (1998). The modern comparison shelf is complete as Pair 16 — *The Wailing* (2016) + *Hereditary* (2018), archived at `03_FILM_STUDIES/PAIR_16_THE_WAILING_HEREDITARY.md`. The modern series reference shelf is also complete with three source-led studies: *The Third Day* (2020), six standard episodes plus its optional 12-hour live event; *Midnight Mass* (2021), seven-episode limited series; and *Katla* (2021), one listed eight-episode season. Their dossiers are archived as `SERIES_01_THE_THIRD_DAY_2020.md`, `SERIES_02_MIDNIGHT_MASS_2021.md` and `SERIES_03_KATLA_2021.md` in `03_FILM_STUDIES/`. The cross-corpus synthesis is `03_FILM_STUDIES/MODERN_AND_SERIAL_SCREEN_SYNTHESIS.md`.
 
-The selected screen-research programme is now complete for its defined scope: 20 historical-core films, five reserve films, six additional director-masters films, two modern-extension films and three series reference studies. *Rashomon* is already included in the core and is not double-counted as a new director-masters title. The full 36-reference screen synthesis is archived at `03_FILM_STUDIES/SCREEN_36_SYNTHESIS.md` (33 films + 3 series). The screen + book cross-corpus synthesis and conditional story-development hypotheses are archived at `06_COMPARATIVE_ANALYSIS/CMP_003_SCREEN_BOOK_STORY_SYNTHESIS.md`. These documents identify transferable craft mechanisms and exploratory directions only. All screen dossiers remain source-led and research-only. No KARUPPI story application or canon change is authorised by these studies.
+The selected screen-research programme is now complete for its defined scope: 20 historical-core films, five reserve films, six additional director-masters films, two modern-extension films and three series reference studies. *Rashomon* is already included in the core and is not double-counted as a new director-masters title. The full 36-reference screen synthesis is archived at `03_FILM_STUDIES/SCREEN_36_SYNTHESIS.md` (33 films + 3 series). The screen + book cross-corpus synthesis and conditional story-development hypotheses are archived at `06_COMPARATIVE_ANALYSIS/CMP_003_SCREEN_BOOK_STORY_SYNTHESIS.md`. These documents identify transferable craft mechanisms and exploratory directions only. All screen dossiers remain source-led and research-only. No story application or canon change is authorised by these studies.
 
 Compare every pair against CMP-002, keep transferable techniques separate from culturally specific material, and maintain research-only status. Pair 03 specifically records the representational problem of treating Sámi people as mystical / exotic forces in dominant Finnish cinema. The film is studied as a cultural representation, not as an authoritative ethnographic account. No story development, mythology changes, or plot explanations are authorised. Before story-specific application, reconcile the available Master Story Bible with the removed-Story-B boundary recorded above. Continue in research-only mode.
 
@@ -123,7 +130,7 @@ Detailed checkpoint: `02_BOOK_STUDIES/ISR_002_VITTU_VIDU_KARUPPA_PAGE_AUDIT_CHEC
 
 The supplied PDF's Tamil text layer has character / spacing irregularities. Use extracted text as navigation support, visually verify plot-critical or ambiguous details, and explicitly distinguish source observations, character reports, interpretations and unresolved causes. Selected visual checks in this checkpoint corrected important ambiguities: p. 161 shows a ₹20,000 sale instrument in a transaction Parandama appears to understand as borrowing; p. 164 identifies the ring on Kattaiyan as Rajathi's engagement ring, with the transfer unresolved; p. 191 explicitly labels Rajathi, Parandama and Anjappam as suicide victims. Do not describe the last event as murder without later source evidence.
 
-**Next source-audit range:** PDF pp. 198–226. Continue in research-only mode. No KARUPPI story canon changes, mythology transfer or screenplay development is authorised by this book study.
+**Next source-audit range:** PDF pp. 198–226. Continue in research-only mode. No story canon changes, mythology transfer or screenplay development is authorised by this book study.
 
 
 ## Active source audit update — ISR-002 checkpoint 002 (2026-11-12)
@@ -161,7 +168,7 @@ Key ending distinctions:
 - The closing scene identifies the headless body as teacher Varadarajan, Shanmugam's father, who died doing a good deed; the ending strongly links him to the recurring helper / protector without collapsing every supernatural question into a simple identity claim.
 - The lovers' relationship and the hidden valuables receive closing resolution.
 
-**Status:** page audit complete. Remaining work is synthesis, chronology reconciliation, character graph and final evidence-versus-belief map. Research only; no KARUPPI canon changes or direct plot transfer are authorised.
+**Status:** page audit complete. Remaining work is synthesis, chronology reconciliation, character graph and final evidence-versus-belief map. Research only; no story canon changes or direct plot transfer are authorised.
 
 
 ## New study opened — ISR-002 television adaptation (2026-11-12)
