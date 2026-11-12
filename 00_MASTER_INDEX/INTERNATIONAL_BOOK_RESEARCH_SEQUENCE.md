@@ -59,6 +59,12 @@ The supplied 235-page 1982 University of Pennsylvania Press edition was reviewed
 The supplied 372-page English digital text was reviewed across all 40 chapters in four parts, plus author notes and copyright material. The study maps Li Lan's journey from the Malacca 1893 ghost-marriage proposal through the Afterworld and Plains of the Dead and back to Malacca. It reconstructs the Lim Tian Ching death mystery separately from the underworld conspiracy, tracks the clue objects and character network, and records the afterlife's rules and costs. The author's notes are carefully separated from fiction: she explicitly identifies the Plains of the Dead as her invention and Er Lang's dragon form as an adaptation. The copyright page identifies the work as fiction. No KARUPPI canon changes were made.
 
 ## Nine-book comparative synthesis completed
+## Expanded combined book synthesis completed
+
+**CMP-002:** `06_COMPARATIVE_ANALYSIS/COMBINED_BOOK_SYNTHESIS_INDRA_AND_INTERNATIONAL.md`
+
+CMP-002 brings the six studied Indra Soundar Rajan works into direct comparison with the nine international references. It preserves CMP-001 as the dedicated nine-book synthesis, treats *Thangakkaadu* as blocked, and keeps *Chidambara Ragasiyam* by Geetha Sambasivam as a separate Tamil temple-context reference. The combined document identifies cross-corpus patterns, source boundaries, productive tensions, and a strengthened research model. No canon changes.
+
 
 **CMP-001:** `06_COMPARATIVE_ANALYSIS/NINE_BOOK_COMPARATIVE_SYNTHESIS.md`
 
