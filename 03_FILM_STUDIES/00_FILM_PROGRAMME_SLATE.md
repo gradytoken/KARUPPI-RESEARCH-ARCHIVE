@@ -1,6 +1,6 @@
 # KARUPPI — International Film Research Programme
 
-**Status:** Historical core and shelves confirmed by the user on 2026-11-12  
+**Status:** Historical core, reserve shelf, director-masters shelf, modern film extension and three-series reference shelf completed by 2026-11-12  
 **Research mode:** Comparative film and series study only  
 **Canon boundary:** This programme does not authorise any KARUPPI story explanation, story development, mythology revision, or canon change.
 
@@ -73,7 +73,7 @@ Pair numbering records the actual study sequence, not a mechanical pairing of ad
 
 Pair 03 follows the titles explicitly placed at positions 3 and 4 in the supplied historical-core list, while Pair 02 remains the separately selected *Cure* / *Noroi* comparison.
 
-## 5. Reserve sequence and current next pair
+## 5. Reserve sequence completed
 
 Pair 09 is complete: *Don't Look Now* (1973) + *Picnic at Hanging Rock* (1975). Pair 10 is complete: *The Shining* (1980) + *The Devil's Backbone* (2001). The 20-film historical core is now covered across ten completed pair studies. Pair 02 covers *Cure* and *Noroi*, so they are not repeated.
 
@@ -95,13 +95,13 @@ Each pair should include, where evidence permits:
 - Transferable filmmaking mechanisms separated from culturally specific beliefs, symbols and practices.
 - Failure modes, limitations, unresolved questions and a pair verdict.
 
-## 12. Evidence integrity
+## 7. Evidence integrity
 
 Use the labels SOURCE, ANALYSIS, AUDIENCE PULSE, CULTURAL BOUNDARY, TRANSFERABLE MECHANISM, and OPEN / NEEDS VERIFICATION.
 
 Do not claim a first-person frame-by-frame viewing if the research is source-led. Do not convert approximate scene windows into exact timecodes. If the edition or runtime differs, record the difference. Folklore claims require independent cultural / historical sources and must not be inferred from a fictional film alone.
 
-## 13. Canon boundary
+## 8. Canon boundary
 
 All film and series studies are research only. Do not create story explanations, import source-film mythology into KARUPPI, alter any character or event, or make plot proposals unless the user explicitly changes the scope.
 
