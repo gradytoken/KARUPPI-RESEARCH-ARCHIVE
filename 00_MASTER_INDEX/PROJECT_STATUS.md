@@ -135,3 +135,12 @@ High-impact findings recorded: Rina refuses Amaravathi's warning to stop investi
 Names and evidence chains remain deliberately separate: Ratna is not Rina; Aravind's stranger account is testimony rather than verified supernatural fact; Kasi is not a confirmed culprit; and the safari-suit body's identity is open.
 
 **Next audit range:** PDF pp. 256–284. The Tamil text layer remains imperfect, so continue visual checks on plot-critical material. No story canon changes or direct plot transfer are authorised.
+
+
+## Active source audit update — ISR-002 checkpoint 003 (2026-11-12)
+
+The resumed *Vittu Vidu Karuppa!* audit now reaches **PDF p. 284 of 298 (95.3%)**. The consecutive range pp. 256–284 has been reviewed. Detailed record: `02_BOOK_STUDIES/ISR_002_VITTU_VIDU_KARUPPA_PAGE_AUDIT_CHECKPOINT_003.md`.
+
+Major new developments: Rina identifies Kasi as Parandama Nayakkar's son and proposes that he is the person acting as / under Karuppu's identity, while explicitly leaving open whether he believes himself to be Karuppu or is impersonating him. Rina also reveals that she arranged Lakshmi and teacher's son Shanmugam's garland exchange / marriage at Karuppu's shrine as a deliberate test of the belief that Karuppu punishes such love. Aravind's account of a young-looking, sandalwood-scented stranger creates an age discrepancy with Kasi. The safari-suit body / apparent resurrection sequence remains unresolved.
+
+**Final audit range:** PDF pp. 285–298. Continue visual verification of plot-critical details. Research only; no story canon changes or direct plot transfer are authorised.
