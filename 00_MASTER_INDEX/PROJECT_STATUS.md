@@ -60,7 +60,7 @@ Do not start a screenplay, rebuild the mythology, or produce new plot explanatio
 - Keep source observations separate from interpretation and story suggestions.
 - Preserve uncertainty. Repetition does not turn a hypothesis into a fact.
 - Consult the latest Master Story Bible before changing the status of a current-day element.
-- Complete one source study before moving to the next unless the project direction changes.
+- Complete book studies one source at a time. Conduct the international film programme in two-film pairs, completing the comparative dossier and GitHub register update before proceeding to the next pair.
 
 ## Canon status vocabulary
 
