@@ -182,3 +182,16 @@ Major findings: Amaravathi warns against opposing Karuppu; Rina refuses to stop 
 The dossier deliberately separates Rina from Ratna, keeps Aravind's stranger account at the level of testimony, leaves Kasi as a lead rather than a confirmed culprit, and does not equate the recurring moustached stranger with a proven supernatural entity.
 
 **Next range:** PDF pp. 256–284. Research only; no KARUPPI canon changes.
+
+
+## 14. Resumed page audit — checkpoint 003
+
+A consecutive page-range audit of **PDF pp. 256–284** was completed on 2026-11-12, following checkpoint 002 at p. 255. The cumulative progress marker is now **284 / 298 (95.3%)**.
+
+Detailed dossier: [`ISR_002_VITTU_VIDU_KARUPPA_PAGE_AUDIT_CHECKPOINT_003.md`](ISR_002_VITTU_VIDU_KARUPPA_PAGE_AUDIT_CHECKPOINT_003.md).
+
+Major developments: the safari-suit body remains part of a lure / observation operation, with a later description of the apparent corpse coming to life; the group investigates concealed rocky terrain and a possible observation point; Rina identifies Kasi as Parandama Nayakkar's son and proposes that he is the person acting under / as Karuppu, while explicitly leaving open whether he believes himself to be the deity or is impersonating him; Aravind's young-looking sandalwood-scented stranger account conflicts with the age expected for Kasi; and Rina reveals that she arranged Lakshmi and teacher's son Shanmugam's garland exchange / marriage at Karuppu's shrine as a deliberate test of the village's claim that Karuppu punishes such love.
+
+The dossier keeps Rina's Kasi theory distinct from proof, preserves the stranger age discrepancy, and leaves the safari-suit sequence unresolved pending the final pages.
+
+**Next and final source-audit range:** PDF pp. 285–298. Research only; no KARUPPI canon changes.
