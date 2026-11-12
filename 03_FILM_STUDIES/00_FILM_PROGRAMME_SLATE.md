@@ -62,12 +62,15 @@ Pair numbering records the actual study sequence, not a mechanical pairing of ad
 | 06 | *Onibaba* (1964) + *Kwaidan* (1964) | Completed | 03_FILM_STUDIES/PAIR_06_ONIBABA_KWAIDAN.md |
 | 07 | *Viy* (1967) + *Nang Nak* (1999) | Completed | 03_FILM_STUDIES/PAIR_07_VIY_NANG_NAK.md |
 | 08 | *The Exorcist* (1973) + *Manichitrathazhu* (1993) | Completed | 03_FILM_STUDIES/PAIR_08_THE_EXORCIST_MANICHITRATHAZHU.md |\n| 09 | *Don't Look Now* (1973) + *Picnic at Hanging Rock* (1975) | Completed | 03_FILM_STUDIES/PAIR_09_DONT_LOOK_NOW_PICNIC_AT_HANGING_ROCK.md |\n| 10 | *The Shining* (1980) + *The Devil's Backbone* (2001) | Completed | 03_FILM_STUDIES/PAIR_10_THE_SHINING_DEVILS_BACKBONE.md |
+| 11 | *The Haunting* (1963) + *Kuroneko* (1968) | Completed | 03_FILM_STUDIES/PAIR_11_THE_HAUNTING_KURONEKO.md |
 
 Pair 03 follows the titles explicitly placed at positions 3 and 4 in the supplied historical-core list, while Pair 02 remains the separately selected *Cure* / *Noroi* comparison.
 
-## 5. Current next pair
+## 5. Reserve sequence and current next pair
 
-Pair 06 is complete: *Onibaba* (1964) + *Kwaidan* (1964). Pair 07 is complete: *Viy* (1967) + *Nang Nak* (1999). Pair 08 is complete: *The Exorcist* (1973) + *Manichitrathazhu* (1993). Pair 09 is complete: *Don't Look Now* (1973) + *Picnic at Hanging Rock* (1975). Pair 10 is complete: *The Shining* (1980) + *The Devil's Backbone* (2001). The 20-film historical core is now covered across ten completed pair studies. Pair 02 covers *Cure* and *Noroi*, so Pair 10 completes the core without repeating them. The next phase requires a separate user selection from the reserve shelf or modern extension. *Cure* (1997) and *Noroi: The Curse* (2005) were already studied together in Pair 02, so they are not repeated.
+Pair 09 is complete: *Don't Look Now* (1973) + *Picnic at Hanging Rock* (1975). Pair 10 is complete: *The Shining* (1980) + *The Devil's Backbone* (2001). The 20-film historical core is now covered across ten completed pair studies. Pair 02 covers *Cure* and *Noroi*, so they are not repeated.
+
+Pair 11 is complete: *The Haunting* (1963) + *Kuroneko* (1968), archived at `03_FILM_STUDIES/PAIR_11_THE_HAUNTING_KURONEKO.md`. Pair 12 is next: *A Tale of Two Sisters* (2003) + *The Orphanage* (2007). Pair 13 will be a standalone study of *Ringu* (1998), completing the five-title reserve shelf without forcing an artificial pairing. *Cure* (1997) and *Noroi: The Curse* (2005) were already studied together in Pair 02, so they are not repeated.
 
 ## 6. Research method
 
@@ -94,3 +97,14 @@ Do not claim a first-person frame-by-frame viewing if the research is source-led
 ## 8. Canon boundary
 
 All film studies are research only. Do not create story explanations, import source-film mythology into KARUPPI, alter any character or event, or make plot proposals unless the user explicitly changes the scope.
+
+
+## 9. Director masters reference shelf (proposed follow-on)
+
+This is a separate reference shelf, not part of the completed 20-film core or the reserve shelf. It addresses an acknowledged coverage gap in major directors. Kurosawa is already represented by *Rashomon* (1950), Pair 01, but additional works are proposed. Titles below are proposed for future study, not completed analyses or canon decisions.
+
+- **Akira Kurosawa:** *Rashomon* (1950, already covered); *Throne of Blood* (1957) for supernatural prophecy, guilt, fog, Noh-derived form and tragic violence; *High and Low* (1963) for investigation, procedural suspense, class and spatial structure.
+- **Ingmar Bergman:** *The Seventh Seal* (1957) for mortality, faith, plague and allegorical dread; *Persona* (1966) for identity, performance, silence and unstable subjectivity; *Hour of the Wolf* (1968) for nightmare, folklore, isolation and psychological horror.
+- **Alfred Hitchcock:** *Vertigo* (1958) for obsession, identity reconstruction, visual motifs and misdirection; *Psycho* (1960) for point of view, structural rupture, editing and sound; *The Birds* (1963) for unexplained collective threat, sound design and community response.
+
+Selection is deliberately craft-led. These films should not be added merely to inflate the list. If the shelf proceeds, each title's film, edition, cultural boundary and craft question must be studied independently.
