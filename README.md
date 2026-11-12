@@ -20,8 +20,13 @@ A version-controlled, evidence-led research library for **KARUPPI: The Betrayed 
 - **ISR-006 — *Kallukkul Pugundha Uyir***: full-arc study of the supplied 74-page PDF, covering all 11 chapters, the Naganatha / Nandana / Nandi threads, Pallava-era sculptural story, rare animation, and ending. OCR was used as navigation support; plot-critical material was checked against page images. Edition metadata is not established by the supplied scan.
 - **ISR-007 — *Abaya Vanam***: first-pass full-arc and 38-chapter structure study of the supplied 320-page PDF. The Tamil text layer is corrupted, so rendered page images were used for chapter openings, endings, selected intervening passages, and the final sequence. The study separates Siddha / samadhi / sacred-grove / nakshatra-tree context from the novel's specific extraordinary claims. A conditional transfer note is archived; neither note changes story canon.
 - **ISR-008 — *Chidambara Ragasiyam***: first-pass full-structure study of the supplied 541-page PDF, mapping 90 numbered sections and targeted page-image reading. The Tamil text layer is corrupted, but the scan is visually clear. The work is a Chidambaram temple reference compilation, not a story collection. Historical claims are checked against ASI, academic and institutional sources; a conditional transfer note is archived with no canon changes.
+- **INTL-001 — *The Inugami Curse***: full-arc study of the supplied 246-page English PDF (translated by Yumiko Yamazaki). The study maps the inheritance mechanism, family relationships, three-heirloom curse structure, identity swaps, clue chain, murders and final unresolved poison detail. It separates the novel's fictional curse from documented Japanese inugami-possession traditions. A conditional KARUPPI transfer note is archived; no canon changes.
 - **FILM-001 — *Rosemary's Baby***: selected sensory-grammar observations, not a complete film study.
 - **CAT-001 — Indra Soundar Rajan catalogue screen**: preliminary relevance-ranked shortlist from a 196-entry author catalogue. Two user-provided screenshots of the page-3 Most-read grid have been visually screened; some cover titles remain uncertain.
+
+## International research programme
+
+The five-book international sequence is tracked in `00_MASTER_INDEX/INTERNATIONAL_BOOK_RESEARCH_SEQUENCE.md`. INTL-001 (*The Inugami Curse*) is complete. After the remaining four book studies, the project will move to a separate 20-film international research programme.
 
 ## Archive map
 
