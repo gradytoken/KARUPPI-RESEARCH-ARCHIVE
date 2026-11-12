@@ -52,11 +52,6 @@ No KARUPPI canon changes were made.
 
 ## Relationship to the final two-book extension
 
-The psychology supplement is closed. Two final books have been added to the end of the book phase:
-
-1. FINAL-001 — *The Stranger* by Albert Camus.
-2. FINAL-002 — *Moral Tribes* by Joshua D. Greene.
-
-They are tracked separately in 00_MASTER_INDEX/FINAL_BOOK_RESEARCH_SEQUENCE.md and will be studied one at a time. After both are complete, no additional books are planned for this research phase. The next step will be a comparative synthesis across the completed book set, followed by the 20-film international research programme.
+The psychology supplement is closed. The final two-book extension is also complete: FINAL-001 (*The Stranger*, Albert Camus) and FINAL-002 (*Moral Tribes*, Joshua D. Greene) each have a full source study and conditional transfer note. The selected nine-book research phase is closed. The next step is the comparative synthesis across all nine selected books, followed by the separate 20-film international research programme.
 
 The goal is not to accumulate terminology. It is to create a dependable understanding of human motivation, moral conflict, responsibility, belonging, grief and choice that can be tested against the latest KARUPPI Master Story Bible.
