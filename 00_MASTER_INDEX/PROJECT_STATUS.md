@@ -3,7 +3,7 @@
 **Archive baseline:** 2026-11-12  
 **International book sequence:** 5 / 5 completed (INTL-001, INTL-002, INTL-003, INTL-004 and INTL-005)
 **Psychology supplement:** 2 / 2 completed (PSYCH-001 *The Righteous Mind* and PSYCH-002 *Man's Search for Meaning*)
-**Final book additions:** 0 / 2 completed (FINAL-001 *The Stranger* next; FINAL-002 *Moral Tribes* queued)  
+**Final book additions:** 1 / 2 completed (FINAL-001 *The Stranger* complete; FINAL-002 *Moral Tribes* next)  
 **Status:** Research and study phase. Story redevelopment is intentionally paused.
 
 ## Active creative foundation
@@ -69,4 +69,4 @@ Do not start a screenplay, rebuild the mythology, or produce new plot explanatio
 
 ## Immediate next step
 
-PSYCH-002 (*Man's Search for Meaning*) is now complete and archived as the second book in the psychology supplement. The final two-book extension is next: study FINAL-001 (*The Stranger* by Albert Camus), then FINAL-002 (*Moral Tribes* by Joshua D. Greene), one at a time. Both supplied PDFs are recorded in the final-book tracker. After these two studies, close book research, complete the comparative synthesis across the nine selected works, then begin the planned 20-film international research programme. The latest Master Story Bible remains required before converting any research into story-specific applications. Continue in research-only mode. Do not begin story development without explicit user authorisation.
+PSYCH-002 (*Man's Search for Meaning*) completed the psychology supplement. FINAL-001 (*The Stranger* by Albert Camus) is now complete: the detailed source study and conditional KARUPPI transfer note are archived. The next and final book is FINAL-002 (*Moral Tribes* by Joshua D. Greene), to be studied on its own. After FINAL-002, close book research, complete the comparative synthesis across the nine selected works, then begin the planned 20-film international research programme. The latest Master Story Bible remains required before converting any research into story-specific applications. Continue in research-only mode. Do not begin story development without explicit user authorisation.
