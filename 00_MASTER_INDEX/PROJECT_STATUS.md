@@ -1,7 +1,7 @@
 # KARUPPI — Project Status and Canon Boundary
 
 **Archive baseline:** 2026-11-12  
-**International book sequence:** 4 / 5 completed (INTL-001, INTL-002, INTL-003 and INTL-004)  
+**International book sequence:** 5 / 5 completed (INTL-001, INTL-002, INTL-003, INTL-004 and INTL-005)  
 **Status:** Research and study phase. Story redevelopment is intentionally paused.
 
 ## Active creative foundation
@@ -42,7 +42,7 @@ No replacement mythology has been approved. Earlier assistant-proposed alternati
 
 ## Current phase objective
 
-Build a rigorous research library by studying one book or film at a time. The archive currently includes studies / notes for *Vittu Vidu Karuppa!*, *Ragasiyamaaga Oru Ragasiyam*, *Adhu Mattum Ragasiyam*, *Aranmanai Ragasiyam 1*, *Kallukkul Pugundha Uyir*, *Abaya Vanam* and *Chidambara Ragasiyam*, plus the first four international book studies, INTL-001 (*The Inugami Curse*), INTL-002 (*Folk*), INTL-003 (*The Night Battles*) and INTL-004 (*The Terror That Comes in the Night*). *Thangakkaadu* remains blocked, and *Rosemary's Baby* is represented by selected sensory observations. Conditional craft-transfer notes are research applications, not story decisions.
+Build a rigorous research library by studying one book or film at a time. The archive currently includes studies / notes for *Vittu Vidu Karuppa!*, *Ragasiyamaaga Oru Ragasiyam*, *Adhu Mattum Ragasiyam*, *Aranmanai Ragasiyam 1*, *Kallukkul Pugundha Uyir*, *Abaya Vanam* and *Chidambara Ragasiyam*, plus all five international book studies, INTL-001 (*The Inugami Curse*), INTL-002 (*Folk*), INTL-003 (*The Night Battles*), INTL-004 (*The Terror That Comes in the Night*) and INTL-005 (*The Ghost Bride*). *Thangakkaadu* remains blocked, and *Rosemary's Baby* is represented by selected sensory observations. Conditional craft-transfer notes are research applications, not story decisions.
 
 Current craft questions include village life and collective behaviour, rules and consequences, mystery information flow, geography as a suspense mechanism, sensory motifs, conflicting belief systems, clue progression, the coexistence of human deception with uncanny evidence, and the relationship between forest ecology, local belief, and practical knowledge.
 
@@ -67,4 +67,4 @@ Do not start a screenplay, rebuild the mythology, or produce new plot explanatio
 
 ## Immediate next step
 
-INTL-001 (*The Inugami Curse*), INTL-002 (*Folk*), INTL-003 (*The Night Battles*) and INTL-004 (*The Terror That Comes in the Night*) are archived as completed full-book studies with separate conditional transfer notes. INTL-004 documents Hufford's experience-centered approach to supernatural belief, the Cultural Source and Experiential Source hypotheses, the Old Hag phenomenology, distinctions among sleep-related states, cross-cultural examples and the limits of causal explanation. Continue the selected international sequence in `00_MASTER_INDEX/INTERNATIONAL_BOOK_RESEARCH_SEQUENCE.md`: INTL-005 *The Ghost Bride*. After the final book and a five-book comparison, begin the planned 20-film international research programme. The latest Master Story Bible remains required before converting any research into story-specific applications. Continue in research-only mode. Do not begin story development without explicit user authorisation.
+All five selected international books, INTL-001 (*The Inugami Curse*), INTL-002 (*Folk*), INTL-003 (*The Night Battles*), INTL-004 (*The Terror That Comes in the Night*) and INTL-005 (*The Ghost Bride*), are archived as completed full-book studies with separate conditional transfer notes. INTL-005 maps Yangsze Choo's 40-chapter historical-fantasy mystery, distinguishing ghost-marriage context from fictional afterlife invention and tracing its two linked mysteries, clue objects, character network and supernatural rules. The five-book sequence is complete. The next step is the comparative synthesis in `00_MASTER_INDEX/INTERNATIONAL_BOOK_RESEARCH_SEQUENCE.md`, followed by the planned 20-film international research programme. The latest Master Story Bible remains required before converting any research into story-specific applications. Continue in research-only mode. Do not begin story development without explicit user authorisation. The latest Master Story Bible remains required before converting any research into story-specific applications. Continue in research-only mode. Do not begin story development without explicit user authorisation.
