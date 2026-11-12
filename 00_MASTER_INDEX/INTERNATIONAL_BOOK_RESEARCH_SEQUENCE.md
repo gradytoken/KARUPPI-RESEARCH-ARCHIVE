@@ -14,7 +14,7 @@ The five titles deliberately cover different research functions. They are not si
 | INTL-001 | *The Inugami Curse* | Seishi Yokomizo; postwar Japan | Family mystery, identity, clue architecture, inheritance, community economics | **Completed** |
 | INTL-002 | *Folk* | Zoe Gilbert; fictional British island | Community folklore, oral memory, belief across generations | **Completed** |
 | INTL-003 | *The Night Battles* | Carlo Ginzburg; northern Italy, 16th–17th centuries | Historical microhistory, folk belief, interrogation and evidence mediation | **Completed** |
-| INTL-004 | *The Terror That Comes in the Night* | David J. Hufford; Newfoundland | Experience-centred folklore, witness accounts, competing explanations | Planned |
+| INTL-004 | *The Terror That Comes in the Night* | David J. Hufford; Newfoundland | Experience-centred folklore, witness accounts, competing explanations | **Completed** |
 | INTL-005 | *The Ghost Bride* | Yangsze Choo; colonial Malaya, 1890s | Ritual belief, family power, social consequences and supernatural mystery | Planned |
 
 ## INTL-001 — The Inugami Curse
@@ -36,7 +36,7 @@ The study separately distinguishes the novel's fictional Kikuno curse from actua
 
 ## Remaining sequence
 
-**Progress:** 3 of 5 complete. INTL-004 is next.
+**Progress:** 4 of 5 complete. INTL-005 is next.
 
 ### INTL-002 — Folk
 **Zoe Gilbert. Completed.** Full study archived in `02_BOOK_STUDIES/INTL_002_Folk.md`, with conditional transfer note in `07_KARUPPI_APPLICATION/INTL_002_FOLK_TRANSFER_NOTE.md`.
@@ -49,7 +49,9 @@ The supplied 155-page 2018 Bloomsbury electronic edition was studied across all 
 The supplied English edition of *I Benandanti* was reviewed through its four chapters, prefaces, translators' note, appendix, notes and index. The study follows the benandanti from early accounts of harvest-protecting night battles and journeys with the dead through later testimony increasingly entangled with demonological sabbat categories. It distinguishes reported experience, hearsay, interrogation, notarial mediation and historical inference. It also records Ginzburg's explicit qualification that the sources do not establish that every reported night gathering physically occurred. No KARUPPI canon changes were made.
 
 ### INTL-004 — The Terror That Comes in the Night
-**David J. Hufford.** Study reported nocturnal experiences, witness description, recurring sensory patterns and competing explanatory frameworks. Do not turn reported experiences into proof of supernatural entities.
+**David J. Hufford. Completed.** Full study archived in `02_BOOK_STUDIES/INTL_004_The_Terror_That_Comes_in_the_Night.md`, with conditional transfer note in `07_KARUPPI_APPLICATION/INTL_004_THE_TERROR_THAT_COMES_IN_THE_NIGHT_TRANSFER_NOTE.md`.
+
+The supplied 235-page 1982 University of Pennsylvania Press edition was reviewed through the introduction, five chapters, conclusion, appendix, bibliography and feature index. The study maps Hufford's experience-centered method, the Cultural Source and Experiential Source hypotheses, Newfoundland accounts, questionnaire design, the four primary features of the Old Hag, secondary experiential features, his critique of sleep-related explanations, and cross-cultural examples involving hauntings, witch-riding, vampires, Inuit augumangia / ukomiarik and Philippine aswang. It distinguishes experience from cultural model and causal explanation. The author's 15-percent prevalence estimate is qualified as a 1982 finding, not a current statistic. No KARUPPI canon changes were made.
 
 ### INTL-005 — The Ghost Bride
 **Yangsze Choo.** Study how supernatural belief affects family decisions, marriage, class and personal agency. Treat the work's invented afterlife and plot as fiction, not as an ethnographic record.
